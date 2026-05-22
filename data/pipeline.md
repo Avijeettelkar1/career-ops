@@ -2,52 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146999008 | Anthropic | Head of International Applied AI Architecture, Partnerships
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191433008 | Anthropic | Software Engineer, Safeguards Foundations (Internal Tooling)
-- [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026)
-- [ ] https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b | Cohere | Machine Learning Intern/Co-op  (Fall, 2026)
-- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Engineering - Internal AI Transformation
-- [ ] https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587 | HelloFresh | Growth Strategy Data Analyst - Intern (M/F/N)
-- [ ] https://jobs.ashbyhq.com/legora/ceda582e-2513-46da-b038-946258c035e1 | Legora | Software Engineer - Internal Tooling
-- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
-- [ ] https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7 | Mistral AI | Applied Scientist / Research Engineer (Internship)
-- [ ] https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a | Palantir | Forward Deployed Software Engineer, Internship
-- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France
-- [ ] https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9 | Palantir | Forward Deployed Software Engineer, Internship - Poland
-- [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government
-- [ ] https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
-- [ ] https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG
-- [ ] https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843389101 | Parloa | Senior Data Engineer - Internal Platform
-- [ ] https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2 | Perplexity | Internship - Search Machine Learning Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92 | Perplexity | Internship - Search Backend Infra Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d | Perplexity | Internship - Search Machine Learning Engineer
-- [ ] https://job-boards.greenhouse.io/safariai/jobs/5117812007 | Safari AI | GTM Engineering Intern
-- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7719338 | Scandit | Computer Vision/Machine Learning Intern
-- [ ] https://sumup.com/careers/positions/8551285002?gh_jid=8551285002 | SumUp | SumUp Accelerator – Software Engineer Intern
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146999008 | Anthropic | Head of International Applied AI Architecture, Partnerships
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191433008 | Anthropic | Software Engineer, Safeguards Foundations (Internal Tooling)
-- [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026)
-- [ ] https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b | Cohere | Machine Learning Intern/Co-op  (Fall, 2026)
-- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Engineering - Internal AI Transformation
-- [ ] https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587 | HelloFresh | Growth Strategy Data Analyst - Intern (M/F/N)
-- [ ] https://jobs.ashbyhq.com/legora/ceda582e-2513-46da-b038-946258c035e1 | Legora | Software Engineer - Internal Tooling
-- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
-- [ ] https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7 | Mistral AI | Applied Scientist / Research Engineer (Internship)
-- [ ] https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a | Palantir | Forward Deployed Software Engineer, Internship
-- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France
-- [ ] https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9 | Palantir | Forward Deployed Software Engineer, Internship - Poland
-- [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government
-- [ ] https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
-- [ ] https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG
-- [ ] https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843389101 | Parloa | Senior Data Engineer - Internal Platform
-- [ ] https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2 | Perplexity | Internship - Search Machine Learning Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92 | Perplexity | Internship - Search Backend Infra Engineer
-- [ ] https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d | Perplexity | Internship - Search Machine Learning Engineer
-- [ ] https://job-boards.greenhouse.io/safariai/jobs/5117812007 | Safari AI | GTM Engineering Intern
-- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7719338 | Scandit | Computer Vision/Machine Learning Intern
-- [ ] https://sumup.com/careers/positions/8551285002?gh_jid=8551285002 | SumUp | SumUp Accelerator – Software Engineer Intern
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5995824004 | Arize AI | International Strategic Partnerships Lead
 - [ ] https://sumup.com/careers/positions/8520827002?gh_jid=8520827002 | SumUp | Senior Internal Auditor
 - [ ] https://www.bmwgroup.jobs/de/de/jobfinder/job-description.183118.html | BMW Group | Werkstudent Medien- und Kommunikationsmanagement BMW Motorrad Welt Berlin (w/m/x)
@@ -74,7 +30,6 @@
 - [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC
 - [ ] https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America
 - [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
-- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain
 - [ ] https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | Deployment Strategist - Spain
 - [ ] https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf | ElevenLabs | Enterprise Account Executive - Spain
@@ -922,7 +877,6 @@
 - [ ] https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
 - [ ] https://jobs.ashbyhq.com/legora/508072d0-e2bc-4d32-bad9-e1581d238331 | Legora | Global Paid Media Director
-- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
 - [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology
 - [ ] https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef | Perplexity | Member of Technical Staff (AI Inference Engineer)
 - [ ] https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315 | Perplexity | Member of Technical Staff (AI Infrastructure Engineer)
@@ -1100,7 +1054,6 @@
 - [ ] https://jobs.lever.co/qonto/f2602376-f5ca-465d-9128-24c2e6e11976 | Qonto | Staff Data Analyst - AI Tooling
 
 
-- [ ] https://job-boards.greenhouse.io/safariai/jobs/5117812007 | Safari AI | GTM Engineering Intern
 - [ ] https://job-boards.greenhouse.io/safariai/jobs/5020246007 | Safari AI | MBA Intern (Spring and/or Summer '26)
 - [ ] https://helsing.ai/jobs/4824087101?gh_jid=4824087101 | Helsing | Commercial Finance Intern/Working Student
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7699758003?gh_jid=7699758003 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market)

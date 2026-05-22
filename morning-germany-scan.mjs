@@ -43,6 +43,39 @@ function isTargetTechRole(title) {
   return targetRoles.some(role => lowerTitle.includes(role));
 }
 
+// Filter for Germany locations only
+function isGermanyLocation(location) {
+  if (!location) return false;
+  const lowerLoc = location.toLowerCase();
+  
+  // Exclude these countries/cities/regions
+  const excludeKeywords = [
+    'usa', 'united states', 'uk', 'united kingdom', 'canada', 'france', 'paris',
+    'london', 'poland', 'belgrade', 'zurich', 'stockholm', 'switzerland', 'sweden',
+    'austria', 'vienna', 'netherlands', 'amsterdam', 'spain', 'madrid', 'barcelona',
+    'italy', 'rome', 'milan', 'belgium', 'brussels', 'denmark', 'copenhagen', 'india',
+    'warsaw'
+  ];
+  
+  if (excludeKeywords.some(exc => lowerLoc.includes(exc))) return false;
+  
+  // Germany cities and regions (excluding 'de' which matches too many substrings)
+  const germanyKeywords = [
+    'berlin', 'munich', 'münchen', 'cologne', 'köln', 'frankfurt', 'hamburg',
+    'düsseldorf', 'dusseldorf', 'leverkusen', 'bonn', 'mannheim', 'heidelberg',
+    'nuremberg', 'nürnberg', 'germany', 'deutschland', 'german', 'hesse', 'hessen',
+    'stuttgart', 'leipzig', 'dresden', 'hanover', 'hannover', 'bremen', 'essen',
+    'duisburg', 'bochum', 'wuppertal', 'bielefeld', 'karlsruhe', 'wiesbaden',
+    'münster', 'munster', 'garching', 'regensburg', 'dingolfing', 'landshut',
+    'wackersdorf', 'steinenbronn', 'freiburg', 'darmstadt'
+  ];
+  
+  // Check tokens for exact match of 'de' country code to avoid substring issues
+  const tokens = lowerLoc.split(/[^a-zA-Z0-9üöäß]+/);
+  
+  return germanyKeywords.some(kw => lowerLoc.includes(kw)) || tokens.includes('de');
+}
+
 // Load companies
 async function loadCompanies() {
   try {
@@ -100,7 +133,7 @@ async function scanAllCompanies(companies) {
       // Filter jobs
       const filtered = [];
       for (const job of jobs) {
-        if (job.url && isStudentTechJob(job.title) && isTargetTechRole(job.title)) {
+        if (job.url && isStudentTechJob(job.title) && isTargetTechRole(job.title) && isGermanyLocation(job.location)) {
           // Check if already scanned
           const historyKey = `${company.name}|${job.url}`;
           if (!history[historyKey]) {
