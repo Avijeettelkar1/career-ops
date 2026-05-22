@@ -2,6 +2,9 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5117812007 | Safari AI | GTM Engineering Intern
+
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843389101 | Parloa | Senior Data Engineer - Internal Platform
 - [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843389101 | Parloa | Senior Data Engineer - Internal Platform
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5995824004 | Arize AI | International Strategic Partnerships Lead
