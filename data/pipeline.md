@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4257174009 | PlanetScale | Software Engineer -  Postgres Internals
+
 - [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
 - [ ] https://job-boards.greenhouse.io/safariai/jobs/5117812007 | Safari AI | GTM Engineering Intern
 
