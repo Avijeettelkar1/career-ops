@@ -2,6 +2,10 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-at-bending-spoons-4417871999 | Bending Spoons | Software engineer, intern
+- [ ] https://de.linkedin.com/jobs/view/llm-engineer-volunteer-intern-for-open-data-esg-project-at-climate-accountability-api-4418107961 | Climate Accountability API | LLM Engineer | Volunteer Intern for Open Data ESG Project
+- [ ] https://de.linkedin.com/jobs/view/praktikum-product-marketing-m-w-d-travel-tech-startup-at-ygo-4415217108 | YGO | Praktikum Product Marketing (m/w/d) - Travel-Tech Startup
+
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4257174009 | PlanetScale | Software Engineer -  Postgres Internals
 
 - [ ] https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52 | Legora | Legal AI Student Analyst
