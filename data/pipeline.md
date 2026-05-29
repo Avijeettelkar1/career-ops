@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/full-stack-developer-intern-music-audio-at-melotech-4420674431 | Melotech | Full-Stack Developer Intern, Music & Audio
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-software-development-ai-at-promos-consult-4411462372 | PROMOS consult | Werkstudent (m/w/d) - Software Development & AI
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-developer-%40-signavio-at-sap-4419068720 | SAP | Working Student (f/m/d) - AI Developer @ Signavio
+- [ ] https://de.linkedin.com/jobs/view/business-development-intern-m-w-d-software-startup-at-mateo-4417915898 | Mateo | Business Development Intern (m/w/d) - Software Startup
+- [ ] https://de.linkedin.com/jobs/view/ai-for-science-internship-machine-learning-intern-at-microsoft-4420414612 | Microsoft | AI for Science Internship - Machine Learning Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-redaktion-%E2%80%93-research-daten-ki-all-genders-at-finanztip-4419849119 | Finanztip | Werkstudent:in Redaktion – Research, Daten & KI (all genders)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-m-w-d-%E2%80%93-projektunterst%C3%BCtzung-ai-first-working-at-forever-day-one-4420911911 | Forever Day One | Werkstudent:in (m/w/d) – Projektunterstützung & AI-First Working
+- [ ] https://de.linkedin.com/jobs/view/studentischer-entwickler-at-bbi-biotech-gmbh-4417925692 | bbi-biotech GmbH | Studentischer Entwickler
+- [ ] https://de.linkedin.com/jobs/view/praktikant-management-advisory-mit-schwerpunkt-ai-engineer-w-m-d-at-bdo-germany-4420910874 | BDO Germany | Praktikant Management Advisory mit Schwerpunkt AI Engineer (w/m/d)
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-at-bending-spoons-4417871999 | Bending Spoons | Software engineer, intern
 - [ ] https://de.linkedin.com/jobs/view/llm-engineer-volunteer-intern-for-open-data-esg-project-at-climate-accountability-api-4418107961 | Climate Accountability API | LLM Engineer | Volunteer Intern for Open Data ESG Project
 - [ ] https://de.linkedin.com/jobs/view/praktikum-product-marketing-m-w-d-travel-tech-startup-at-ygo-4415217108 | YGO | Praktikum Product Marketing (m/w/d) - Travel-Tech Startup
