@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://sumup.com/careers/positions/8285272002?gh_jid=8285272002 | SumUp | AI Product Intern
+
+- [ ] https://de.linkedin.com/jobs/view/fullstack-ai-engineer-werkstudent-in-at-cevee-4420982736 | Cevee | Fullstack AI Engineer (Werkstudent:in)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-frontend-entwicklung-at-deutsche-bahn-4421302338 | Deutsche Bahn | Werkstudent:in Frontend-Entwicklung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-product-solutions-m-w-d-at-shyftplan-4417955173 | shyftplan | Werkstudent:in AI Product & Solutions (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-business-automation-ai-engineer-at-caya-4417943491 | Caya | Werkstudent*in Business Automation & AI Engineer
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-m-w-d-im-bereich-automatisierungstechnik-ki-gest%C3%BCtzte-robotik-at-fraunhofer-ipk-4420972674 | Fraunhofer IPK | Studentische Hilfskraft (m,w,d) im Bereich Automatisierungstechnik (KI-gestützte Robotik)
+- [ ] https://de.linkedin.com/jobs/view/ai-product-intern-at-sumup-4417958817 | SumUp | AI Product Intern
+- [ ] https://de.linkedin.com/jobs/view/audio-recording-and-engineering-working-student-20h-week-at-ai-coustics-4418327378 | ai-coustics | Audio Recording and Engineering Working Student (20h/week)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-video-editing-ai-at-glorya-gmbh-4417940242 | Glorya GmbH | Werkstudent Video Editing & AI
+
 - [ ] https://de.linkedin.com/jobs/view/full-stack-developer-intern-music-audio-at-melotech-4420674431 | Melotech | Full-Stack Developer Intern, Music & Audio
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-software-development-ai-at-promos-consult-4411462372 | PROMOS consult | Werkstudent (m/w/d) - Software Development & AI
 - [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-developer-%40-signavio-at-sap-4419068720 | SAP | Working Student (f/m/d) - AI Developer @ Signavio
