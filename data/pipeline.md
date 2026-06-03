@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-saas-greentech-m-f-d-at-reonic-4422480603 | Reonic | Software Engineering Intern (SaaS, Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-software-development-f-m-d-at-yunex-traffic-4422449058 | Yunex Traffic | Working Student Software Development (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-backend-softwareentwicklung-ki-m-w-d-python-apis-medtech-at-think3ddd-4419690556 | Think3DDD | Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-softwareentwicklung-at-yunex-traffic-4422431206 | Yunex Traffic | Werkstudent (w/m/d) Softwareentwicklung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-software-development-%E2%80%93-content-automation-m-w-d-at-vgl-publishing-ag-4413446736 | VGL Publishing AG | Werkstudent Software Development – Content & Automation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-data-analytics-m-w-d-at-energie-und-wasser-potsdam-gmbh-4419699311 | Energie und Wasser Potsdam GmbH | Werkstudent Data & Analytics (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-data-analytics-performance-management-w-m-d-at-e-on-digital-technology-4419608434 | E.ON Digital Technology | Werkstudent Data Analytics & Performance Management (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-webflow-frontend-development-at-v-lab-one-4419695317 | V-LAB ONE | Werkstudent:in Webflow Frontend Development
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-training-development-mit-fokus-ki-d-m-w-at-auto1-group-4424055686 | AUTO1 Group | Werkstudent Training & Development mit Fokus KI (d/m/w)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-redaktion-f%C3%BCr-tech-magazin-m-w-d-at-book-family-4392947690 | BOOK family | Werkstudent Redaktion für Tech-Magazin (m/w/d)
+
 - [ ] https://sumup.com/careers/positions/8285272002?gh_jid=8285272002 | SumUp | AI Product Intern
 
 - [ ] https://de.linkedin.com/jobs/view/fullstack-ai-engineer-werkstudent-in-at-cevee-4420982736 | Cevee | Fullstack AI Engineer (Werkstudent:in)
