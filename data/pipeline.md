@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-product-solutions-m-w-d-at-shyftplan-4420706828 | shyftplan | Werkstudent:in AI Product & Solutions (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4421107695 | Art & Science Node | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level
+- [ ] https://de.linkedin.com/jobs/view/working-student-m-f-d-%E2%80%93-frontend-development-for-ai-applications-at-trench-group-4423369505 | Trench Group | Working Student (m/f/d) – Frontend Development for AI Applications
+- [ ] https://de.linkedin.com/jobs/view/machine-learning-intern-generative-ai-applications-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4423384822 | Tesla | Machine Learning Intern, Generative AI Applications (m/f/d) - Gigafactory Berlin-Brandenburg
+- [ ] https://de.linkedin.com/jobs/view/software-integration-engineering-intern-fall-spring-at-rivian-and-volkswagen-group-technologies-4424466797 | Rivian and Volkswagen Group Technologies | Software Integration Engineering Intern (Fall/Spring)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-m-w-d-data-quality-at-cornelsen-verlag-gmbh-4416801306 | Cornelsen Verlag GmbH | Werkstudent*in (m/w/d) Data Quality
+- [ ] https://de.linkedin.com/jobs/view/working-student-generative-ai-workflow-automation-all-genders-at-boston-consulting-group-bcg-4424442460 | Boston Consulting Group (BCG) | Working Student Generative AI & Workflow Automation (all genders)
+- [ ] https://de.linkedin.com/jobs/view/working-student-m-f-d-%E2%80%93-electrical-mechanical-engineering-for-ai-applications-at-trench-group-4423380236 | Trench Group | Working Student (m/f/d) – Electrical / Mechanical Engineering for AI Applications
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-sales-engineering-account-management-m-w-d-at-data-spree-gmbh-4421114647 | Data Spree GmbH | Werkstudent Sales Engineering/Account Management (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/phd-internship-f-m-d-ai-research-foundation-models-on-structured-data-at-sap-4324139789 | SAP | PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-saas-greentech-m-f-d-at-reonic-4422480603 | Reonic | Software Engineering Intern (SaaS, Greentech) (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-software-development-f-m-d-at-yunex-traffic-4422449058 | Yunex Traffic | Working Student Software Development (f/m/d)
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-backend-softwareentwicklung-ki-m-w-d-python-apis-medtech-at-think3ddd-4419690556 | Think3DDD | Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech
