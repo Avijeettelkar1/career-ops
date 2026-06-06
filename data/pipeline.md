@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-ai-full-stack-engineer-m-f-d-at-merantix-momentum-4421169349 | Merantix Momentum | Working Student AI Full Stack Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-fullstack-development-w-m-d-at-kpmg-deutschland-4424583955 | KPMG Deutschland | Praktikum Fullstack Development (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-center-of-excellence-w-m-d-at-kpmg-deutschland-4424606125 | KPMG Deutschland | Praktikum - AI Center of Excellence (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-it-softwareentwicklung-w-m-d-at-kpmg-it-service-gmbh-4424606045 | KPMG IT Service GmbH | Werkstudent IT - Softwareentwicklung (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-ai-transformation-at-dkb-deutsche-kreditbank-ag-4421163137 | DKB | Deutsche Kreditbank AG | Werkstudent AI-Transformation
+- [ ] https://de.linkedin.com/jobs/view/praktikum-data-analytics-global-transformation-tax-w-m-d-at-pwc-deutschland-4403972960 | PwC Deutschland | Praktikum Data Analytics Global Transformation Tax (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technologiesteuerung-montage-berlin-w-m-x-at-bmw-group-4382078089 | BMW Group | Praktikant Technologiesteuerung Montage Berlin (w/m/x)
+- [ ] https://de.linkedin.com/jobs/view/chief-of-staff-intern-f-m-d-ai-startup-serial-entrepreneurs-at-taxforce-4421151472 | Taxforce | Chief of Staff Intern (f/m/d) - AI Startup - Serial Entrepreneurs
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-b2b-operations-technical-account-management-m-w-d-at-idealo-internet-gmbh-4424567713 | idealo internet GmbH | Werkstudent B2B Operations / Technical Account Management (m|w|d)
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-product-solutions-m-w-d-at-shyftplan-4420706828 | shyftplan | Werkstudent:in AI Product & Solutions (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4421107695 | Art & Science Node | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level
 - [ ] https://de.linkedin.com/jobs/view/working-student-m-f-d-%E2%80%93-frontend-development-for-ai-applications-at-trench-group-4423369505 | Trench Group | Working Student (m/f/d) – Frontend Development for AI Applications
