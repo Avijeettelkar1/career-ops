@@ -2,6 +2,9 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-distributor-product-data-improvement-m-f-d-at-corning-incorporated-4421942853 | Corning Incorporated | Working Student - Distributor Product Data Improvement (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-%E2%80%93-fullstack-softwareentwicklung-m-w-d-at-contact-software-4425489739 | CONTACT Software | Werkstudent*in – Fullstack Softwareentwicklung (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-ai-full-stack-engineer-m-f-d-at-merantix-momentum-4421169349 | Merantix Momentum | Working Student AI Full Stack Engineer (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/praktikum-fullstack-development-w-m-d-at-kpmg-deutschland-4424583955 | KPMG Deutschland | Praktikum Fullstack Development (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/praktikum-ai-center-of-excellence-w-m-d-at-kpmg-deutschland-4424606125 | KPMG Deutschland | Praktikum - AI Center of Excellence (w/m/d)
