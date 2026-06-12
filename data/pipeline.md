@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/graphic-designer-working-student-ai-music-video-platform-at-neural-frames-4423644581 | Neural Frames | Graphic Designer (Working Student) // AI Music Video Platform
+- [ ] https://de.linkedin.com/jobs/view/agentic-innovation-developer-werkstudent-m-w-d-at-rox-health-4424883258 | RoX Health | Agentic Innovation Developer - Werkstudent (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-it-support-all-genders-cloud-platform-engineering-at-moia-4427520402 | MOIA | Working Student IT Support (all genders) - Cloud & Platform Engineering
+- [ ] https://de.linkedin.com/jobs/view/informatikpraktikum-e-commerce-im-verlag-berlin-front-backend-at-verlag-hom%C3%B6opathie-%2B-symbol-4424841461 | Verlag Homöopathie + Symbol | Informatikpraktikum E-Commerce im Verlag (Berlin) (Front/Backend)
+- [ ] https://de.linkedin.com/jobs/view/operational-support-ai-intern-at-oceyon-4427907607 | Oceyon | Operational Support & AI Intern
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-frontend-engineer-typescript-d-f-m-at-bettermile-4426759495 | Bettermile | Working Student Frontend Engineer (TypeScript) (d/f/m)
 - [ ] https://de.linkedin.com/jobs/view/deutsche-bank-internship-f-m-x-in-technology-data-innovation-2026-berlin-at-deutsche-bank-4338103919 | Deutsche Bank | Deutsche Bank Internship (f/m/x) in Technology, Data & Innovation 2026 Berlin
 - [ ] https://de.linkedin.com/jobs/view/internship-global-product-management-hardware-ai-enablement-m-w-d-at-1komma5%C2%B0-4423107382 | 1KOMMA5° | Internship Global Product Management Hardware & AI Enablement (m/w/d)
