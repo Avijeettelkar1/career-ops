@@ -2,6 +2,10 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-softwareentwicklung-m-w-d-at-sicherheit-nord-4428340008 | Sicherheit Nord | Werkstudent Softwareentwicklung (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-agent-development-in-training-at-siemens-energy-4426992081 | Siemens Energy | Working Student (f/m/d) - AI Agent Development in Training
+- [ ] https://de.linkedin.com/jobs/view/working-student-d-f-m-automotive-data-management-at-mobile-de-4427982807 | mobile.de | Working Student (d/f/m) Automotive Data Management
+
 - [ ] https://de.linkedin.com/jobs/view/graphic-designer-working-student-ai-music-video-platform-at-neural-frames-4423644581 | Neural Frames | Graphic Designer (Working Student) // AI Music Video Platform
 - [ ] https://de.linkedin.com/jobs/view/agentic-innovation-developer-werkstudent-m-w-d-at-rox-health-4424883258 | RoX Health | Agentic Innovation Developer - Werkstudent (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-it-support-all-genders-cloud-platform-engineering-at-moia-4427520402 | MOIA | Working Student IT Support (all genders) - Cloud & Platform Engineering
