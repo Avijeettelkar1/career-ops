@@ -2,6 +2,9 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-frontend-engineer-m-f-d-at-raisin-4407211996 | Raisin | Working Student Frontend Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-agent-operations-software-delivery-m-w-d-at-valesa-gmbh-4425304411 | Valesa GmbH | Praktikum AI Agent Operations & Software Delivery (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-softwareentwicklung-m-w-d-at-sicherheit-nord-4428340008 | Sicherheit Nord | Werkstudent Softwareentwicklung (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-agent-development-in-training-at-siemens-energy-4426992081 | Siemens Energy | Working Student (f/m/d) - AI Agent Development in Training
 - [ ] https://de.linkedin.com/jobs/view/working-student-d-f-m-automotive-data-management-at-mobile-de-4427982807 | mobile.de | Working Student (d/f/m) Automotive Data Management
