@@ -2,6 +2,18 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-m-f-d-at-raisin-4426822914 | Raisin | Working Student Software Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-berlin-2026-at-snowflake-4311124015 | Snowflake | Software Engineer Intern - Berlin (2026)
+- [ ] https://de.linkedin.com/jobs/view/ai-engineering-automation-intern-on-site-at-cloover-4429784896 | Cloover | AI Engineering & Automation Intern (on-site)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4427319744 | Stella.Coach | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-software-engineering-m-w-d-at-laria-4427022766 | laria | Werkstudent:in Software Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-im-bereich-data-analytics-at-siemens-4428042909 | Siemens | Werkstudent (w/m/d) im Bereich Data Analytics
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-agile-enablement-im-software-engineering-m-w-d-at-bwi-gmbh-4419596062 | BWI GmbH | Werkstudent Agile Enablement im Software Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-podcast-sales-operations-data-analytics-m-w-d-at-julep-media-gmbh-4426845194 | Julep Media GmbH | Praktikum Podcast Sales Operations & Data Analytics (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/studentische-aushilfe-werkstudent-in-technik-m-w-at-kempinski-hotels-4426823540 | Kempinski Hotels | Studentische Aushilfe/ Werkstudent*in Technik (m/w/*)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-sales-operations-data-analytics-m-w-d-%E2%80%93-podcast-advertising-at-julep-media-gmbh-4426847248 | Julep Media GmbH | Praktikum Sales Operations & Data Analytics (m/w/d) – Podcast Advertising
+- [ ] https://de.linkedin.com/jobs/view/intern-product-operations-%E2%80%93-france-saas-greentech-m-f-d-at-reonic-4429548167 | Reonic | Intern Product Operations – France (SaaS, Greentech)(m/f/d)
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-produktmanagement-w-m-d-techagentur-at-vt-netzwelt-4425791108 | VT Netzwelt | Werkstudent Produktmanagement (w/m/d) Techagentur
 - [ ] https://de.linkedin.com/jobs/view/ai-adoption-implementation-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4428850899 | Tesla | AI Adoption & Implementation Internship (m/f/d) - Gigafactory Berlin-Brandenburg
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-data-science-at-siemens-energy-4427488605 | Siemens Energy | Werkstudent (w/m/d) Data Science
