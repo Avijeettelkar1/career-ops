@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-data-science-robotics-machine-learning-at-roboservice-4427366875 | RoboService | Working Student - Data Science & Robotics Machine Learning
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-cloud-transformation-cloud-portfolio-f-m-d-at-mhp-%E2%80%93-a-porsche-company-4430406625 | MHP – A Porsche Company | Werkstudent im Bereich Cloud Transformation & Cloud Portfolio (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/ai-business-innovation-growth-internship-m-f-d-at-t-systems-international-4429984508 | T-Systems International | AI Business Innovation & Growth Internship (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-sicherheitstechnik-m-w-d-at-bundesdruckerei-gruppe-4429942591 | Bundesdruckerei-Gruppe | Werkstudent Sicherheitstechnik (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-ai-data-strategy-m-w-d-in-berlin-at-deloitte-4429940685 | Deloitte | Praktikant AI & Data Strategy (m/w/d) in Berlin
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-m-f-d-at-raisin-4426822914 | Raisin | Working Student Software Engineer (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-berlin-2026-at-snowflake-4311124015 | Snowflake | Software Engineer Intern - Berlin (2026)
 - [ ] https://de.linkedin.com/jobs/view/ai-engineering-automation-intern-on-site-at-cloover-4429784896 | Cloover | AI Engineering & Automation Intern (on-site)
