@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-intern-brand-data-m-f-d-at-g2-esports-4430926735 | G2 Esports | Working Student/Intern Brand & Data (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/project-engineering-program-management-cell-electrode-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4430749732 | Tesla | Project Engineering / Program Management Cell Electrode Internship (m/f/d) - Gigafactory Berlin-Brandenburg
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-libra-legal-ai-assistant-m-w-d-at-wolters-kluwer-4429301834 | Wolters Kluwer | Software Engineer Intern (Libra - Legal AI Assistant) (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-data-engineering-data-science-oss-all-genders-at-mtu-maintenance-berlin-brandenburg-4430496881 | MTU Maintenance Berlin-Brandenburg | Praktikum Data Engineering / Data Science OSS (all genders)
+- [ ] https://de.linkedin.com/jobs/view/finance-data-ai-analyst-internship-w-m-d-at-enpal-4430944834 | Enpal | Finance Data & AI Analyst Internship (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-advanced-production-technology-stator-rotorfertigung-d-m-w-at-schaeffler-4410756152 | Schaeffler | Praktikum Advanced Production Technology - Stator- & Rotorfertigung (d/m/w)
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-data-science-robotics-machine-learning-at-roboservice-4427366875 | RoboService | Working Student - Data Science & Robotics Machine Learning
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-cloud-transformation-cloud-portfolio-f-m-d-at-mhp-%E2%80%93-a-porsche-company-4430406625 | MHP – A Porsche Company | Werkstudent im Bereich Cloud Transformation & Cloud Portfolio (f/m/d)
 - [ ] https://de.linkedin.com/jobs/view/ai-business-innovation-growth-internship-m-f-d-at-t-systems-international-4429984508 | T-Systems International | AI Business Innovation & Growth Internship (m/f/d)
