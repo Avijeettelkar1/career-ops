@@ -2,6 +2,9 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-f-m-d-at-raisin-4412165988 | Raisin | Working Student Software Engineer (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/studentische-mitarbeiter-praktikanten-duale-studenten-all-genders-electronic-testing-software-testing-1051-at-joyson-safety-systems-hungary-4431349805 | Joyson Safety Systems Hungary | Studentische Mitarbeiter/Praktikanten/Duale Studenten (all genders) Electronic Testing - Software Testing(1051)
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-intern-brand-data-m-f-d-at-g2-esports-4430926735 | G2 Esports | Working Student/Intern Brand & Data (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/project-engineering-program-management-cell-electrode-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4430749732 | Tesla | Project Engineering / Program Management Cell Electrode Internship (m/f/d) - Gigafactory Berlin-Brandenburg
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-libra-legal-ai-assistant-m-w-d-at-wolters-kluwer-4429301834 | Wolters Kluwer | Software Engineer Intern (Libra - Legal AI Assistant) (m/w/d)
