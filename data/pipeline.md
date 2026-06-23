@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4904498101 | Parloa | Working Student - AI Agent Architecture 
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-f-m-d-at-raisin-4412165988 | Raisin | Working Student Software Engineer (f/m/d)
 - [ ] https://de.linkedin.com/jobs/view/studentische-mitarbeiter-praktikanten-duale-studenten-all-genders-electronic-testing-software-testing-1051-at-joyson-safety-systems-hungary-4431349805 | Joyson Safety Systems Hungary | Studentische Mitarbeiter/Praktikanten/Duale Studenten (all genders) Electronic Testing - Software Testing(1051)
 

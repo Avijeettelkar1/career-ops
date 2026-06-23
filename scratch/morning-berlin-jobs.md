@@ -1,9 +1,8 @@
-# 🌅 Morning Berlin Tech Jobs - 6/21/2026
+# 🌅 Morning Berlin Direct & BMW Jobs - 6/23/2026
 
-Generated at: **11:39:25 AM**
-Found **2** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **11:53:26 AM**
+Found **1** new Werkstudent positions in Berlin/Remote via direct job boards and BMW Group:
 
-| Company | Role | Link |
-| :--- | :--- | :--- |
-| **Raisin** | Working Student Software Engineer (f/m/d) | [View Job](https://de.linkedin.com/jobs/view/working-student-software-engineer-f-m-d-at-raisin-4412165988) |
-| **Joyson Safety Systems Hungary** | Studentische Mitarbeiter/Praktikanten/Duale Studenten (all genders) Electronic Testing - Software Testing(1051) | [View Job](https://de.linkedin.com/jobs/view/studentische-mitarbeiter-praktikanten-duale-studenten-all-genders-electronic-testing-software-testing-1051-at-joyson-safety-systems-hungary-4431349805) |
+| Company | Role | Location | Source | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Parloa** | Working Student - AI Agent Architecture  | Berlin Office | `greenhouse-api` | [View Job](https://job-boards.eu.greenhouse.io/parloa/jobs/4904498101) |
