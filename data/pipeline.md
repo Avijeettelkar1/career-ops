@@ -2,6 +2,18 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/internship-data-science-robotics-machine-learning-at-roboservice-4431508000 | RoboService | Internship - Data Science & Robotics Machine Learning
+- [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-at-vetpal-4431503612 | Vetpal | Software Engineering Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-vertrieb-govtech-startup-in-berlin-deutsch-ab-17%E2%82%AC-p-st-%2B-provision-at-eduneon-4431594276 | Eduneon | Werkstudent:in im Vertrieb - GovTech Startup in Berlin (Deutsch), ab 17€ p. St. + Provision
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-vertrieb-sales-%E2%80%93-ehealth-software-berlin-at-samedi-gmbh-4434467327 | samedi GmbH | Werkstudent (m/w/d) Vertrieb & Sales – eHealth Software Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-prozessmanagement-ki-at-ntt-data-business-solutions-4434190504 | NTT DATA Business Solutions | Werkstudent:in Prozessmanagement & KI
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-data-science-research-predictive-analytics-at-justwatch-4434961542 | JustWatch | Working Student – Data Science (Research & Predictive Analytics)
+- [ ] https://de.linkedin.com/jobs/view/electrical-engineering-internship-m-w-d-gigafactory-berlin-brandenburg-at-tesla-4434778420 | Tesla | Electrical Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-f%C3%BCr-brandschutztechnik-m-w-d-at-hosch-geb%C3%A4udeautomation-4434777636 | HOSCH Gebäudeautomation | Werkstudent für Brandschutztechnik (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-ai-video-creation-w-m-d-at-smarketer-gmbh-4431920303 | Smarketer GmbH | Werkstudent AI Video Creation (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-libra-legal-ai-assistant-m-f-d-at-wolters-kluwer-4434150671 | Wolters Kluwer | Werkstudent:in Libra Legal AI Assistant (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-finance-transformation-performance-management-data-analytics-w-m-d-at-pwc-deutschland-4434133510 | PwC Deutschland | Praktikum Finance Transformation: Performance Management/Data Analytics (w/m/d)
+
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-frontend-ux-design-m-w-d-react-ui-ux-medtech-startup-at-think3ddd-4429454294 | Think3DDD | Pflichtpraktikum Frontend & UX Design (m/w/d) - React, UI/UX & MedTech-Startup
 - [ ] https://de.linkedin.com/jobs/view/working-student-product-management-data-d-f-m-at-orderbird-4429825136 | orderbird | Working Student Product Management & Data (d/f/m)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-%E2%80%93-ai-engineer-at-jemix-gmbh-4429855047 | jemix GmbH | Werkstudent (m/w/d) – AI Engineer
