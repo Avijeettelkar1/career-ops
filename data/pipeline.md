@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikum-abschlussarbeit-im-bereich-data-science-at-harting-technology-group-4363385266 | HARTING Technology Group | Praktikum / Abschlussarbeit im Bereich Data Science
+- [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-textcortex-ai-4431934422 | TextCortex AI | Product Engineering Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-analytics-at-yoummday-4433252660 | yoummday | Werkstudent (m/w/d) Data & Analytics
+- [ ] https://de.linkedin.com/jobs/view/working-student-d-f-m-automotive-data-management-at-mobile-de-4435306965 | mobile.de | Working Student (d/f/m) Automotive Data Management
+- [ ] https://de.linkedin.com/jobs/view/tax-technology-praktikum-werkstudent-m-w-d-digitale-steuerl%C3%B6sungen-at-anytax-4431967537 | AnyTax | Tax Technology Praktikum / Werkstudent (m/w/d) | Digitale Steuerlösungen
+
 - [ ] https://de.linkedin.com/jobs/view/internship-data-science-robotics-machine-learning-at-roboservice-4431508000 | RoboService | Internship - Data Science & Robotics Machine Learning
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-at-vetpal-4431503612 | Vetpal | Software Engineering Intern
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-vertrieb-govtech-startup-in-berlin-deutsch-ab-17%E2%82%AC-p-st-%2B-provision-at-eduneon-4431594276 | Eduneon | Werkstudent:in im Vertrieb - GovTech Startup in Berlin (Deutsch), ab 17€ p. St. + Provision
