@@ -2,6 +2,22 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/devops-data-architecture-intern-at-heidi-systems-4435837040 | Heidi Systems | DevOps & Data Architecture Intern
+- [ ] https://de.linkedin.com/jobs/view/praktikum-software-engineer-w-m-d-%40metrify-at-enpal-4416656273 | Enpal | Praktikum Software Engineer (w/m/d) @Metrify
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-softwareentwicklung-m-w-d-at-diebold-nixdorf-4398256279 | Diebold Nixdorf | Werkstudent Softwareentwicklung (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-mlops-plattform-cloud-native-infrastruktur-at-atos-4432701839 | Atos | Werkstudent MLOps-Plattform & Cloud-Native Infrastruktur
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-mlops-plattform-cloud-native-infrastruktur-m-w-d-at-atos-4432394968 | Atos | Werkstudent MLOps-Plattform & Cloud-Native Infrastruktur (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/studentische-mitarbeiter-praktikanten-duale-studenten-all-genders-electronic-testing-software-testing-1051-at-joyson-safety-systems-hungary-4435801649 | Joyson Safety Systems Hungary | Studentische Mitarbeiter/Praktikanten/Duale Studenten (all genders) Electronic Testing - Software Testing(1051)
+- [ ] https://de.linkedin.com/jobs/view/working-student-engineering-at-almedia-4435574525 | Almedia | Working Student Engineering
+- [ ] https://de.linkedin.com/jobs/view/internship-ai-venture-development-f-m-x-at-telli-4435810360 | telli | Internship - AI Venture Development (f/m/x)
+- [ ] https://de.linkedin.com/jobs/view/customer-service-ai-automation-intern-vollzeit-praktikum-at-ingarden-4435837435 | ingarden | Customer Service & AI Automation Intern (Vollzeit-Praktikum)
+- [ ] https://de.linkedin.com/jobs/view/operations-working-student-us-ai-recruiting-marketplace-at-clera-4435808427 | Clera | Operations Working Student (US AI Recruiting Marketplace)
+- [ ] https://de.linkedin.com/jobs/view/working-student-master-data-operations-6-months-contract-all-genders-at-flaconi-4436189322 | flaconi | Working Student, Master Data Operations - 6 months contract (all genders)
+- [ ] https://de.linkedin.com/jobs/view/venture-development-intern-new-products-greentech-m-f-d-at-reonic-4436308275 | Reonic | Venture Development Intern - New Products (Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-w-m-d-technisch-wirtschaftliche-bauberatung-at-drees-sommer-4417643849 | Drees & Sommer | Praktikant/Werkstudent (w/m/d) Technisch-wirtschaftliche Bauberatung
+- [ ] https://de.linkedin.com/jobs/view/cro-engineering-student-m-f-d-at-alstom-4428935817 | Alstom | CRO Engineering Student (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/production-engineering-internship-thesis-m-f-d-at-procter-gamble-4352736519 | Procter & Gamble | Production / Engineering - Internship / Thesis (m/f/d)
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-abschlussarbeit-im-bereich-data-science-at-harting-technology-group-4363385266 | HARTING Technology Group | Praktikum / Abschlussarbeit im Bereich Data Science
 - [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-textcortex-ai-4431934422 | TextCortex AI | Product Engineering Intern
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-analytics-at-yoummday-4433252660 | yoummday | Werkstudent (m/w/d) Data & Analytics
