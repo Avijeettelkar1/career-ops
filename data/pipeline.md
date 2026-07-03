@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-dev-intern-ai-machine-learning-at-amazon-4436446404 | Amazon | Software Dev Intern - AI / Machine Learning
+- [ ] https://de.linkedin.com/jobs/view/praktikum-fullstack-development-w-m-d-at-kpmg-deutschland-4435410886 | KPMG Deutschland | Praktikum Fullstack Development (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-intern-machine-learning-amazon-robotics-at-amazon-4436437756 | Amazon | Software Dev Engineer Intern Machine Learning, Amazon Robotics
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-sap-hana-cloud-infrastructure-at-sap-4426085848 | SAP | Working Student (f/m/d) - SAP HANA Cloud Infrastructure
+- [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-internship-embedded-development-at-amazon-web-services-aws-4436371938 | Amazon Web Services (AWS) | Software Dev Engineer internship - Embedded Development
+- [ ] https://de.linkedin.com/jobs/view/cloud-native-frontend-developer-intern-f-m-d-at-sap-fioneer-4435254306 | SAP Fioneer | Cloud-Native Frontend Developer Intern (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-center-of-excellence-w-m-d-at-kpmg-deutschland-4435420549 | KPMG Deutschland | Praktikum - AI Center of Excellence (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-it-softwareentwicklung-w-m-d-at-kpmg-it-service-gmbh-4435424457 | KPMG IT Service GmbH | Werkstudent IT - Softwareentwicklung (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-product-design-martech-at-justwatch-4436331394 | JustWatch | Working Student Product Design - MarTech
+- [ ] https://de.linkedin.com/jobs/view/working-student-master-data-operations-6-months-contract-all-genders-at-flaconi-4436491685 | flaconi | Working Student, Master Data Operations - 6 months contract (all genders)
+
 - [ ] https://de.linkedin.com/jobs/view/devops-data-architecture-intern-at-heidi-systems-4435837040 | Heidi Systems | DevOps & Data Architecture Intern
 - [ ] https://de.linkedin.com/jobs/view/praktikum-software-engineer-w-m-d-%40metrify-at-enpal-4416656273 | Enpal | Praktikum Software Engineer (w/m/d) @Metrify
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-softwareentwicklung-m-w-d-at-diebold-nixdorf-4398256279 | Diebold Nixdorf | Werkstudent Softwareentwicklung (m/w/d)
