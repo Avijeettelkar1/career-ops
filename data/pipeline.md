@@ -2,6 +2,11 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikum-frontend-3d-softwareentwicklung-m-w-d-three-js-react-js-optional-python-at-think3ddd-4433909207 | Think3DDD | Praktikum Frontend & 3D-Softwareentwicklung (m/w/d) - three.js, React.js & optional Python
+- [ ] https://de.linkedin.com/jobs/view/solution-engineer-working-student-w-m-d-at-caya-4433949244 | Caya | Solution Engineer Working Student (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/student-genai-engineer-at-abacus-medicine-group-4433913357 | Abacus Medicine Group | Student GenAI Engineer
+- [ ] https://de.linkedin.com/jobs/view/venture-development-intern-new-products-greentech-m-f-d-at-reonic-4437180055 | Reonic | Venture Development Intern - New Products (Greentech) (m/f/d)
+
 - [ ] https://de.linkedin.com/jobs/view/software-dev-intern-ai-machine-learning-at-amazon-4436446404 | Amazon | Software Dev Intern - AI / Machine Learning
 - [ ] https://de.linkedin.com/jobs/view/praktikum-fullstack-development-w-m-d-at-kpmg-deutschland-4435410886 | KPMG Deutschland | Praktikum Fullstack Development (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-intern-machine-learning-amazon-robotics-at-amazon-4436437756 | Amazon | Software Dev Engineer Intern Machine Learning, Amazon Robotics
