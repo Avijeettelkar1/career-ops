@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/ai-adoption-intern-at-tracteasy-4434837259 | TractEasy | AI Adoption Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-m-w-d-it-cloud-administration-azure-microsoft-365-at-pusch-wahlig-workplace-law-4434540822 | Pusch Wahlig Workplace Law | Werkstudent:in (m/w/d) IT & Cloud Administration (Azure/Microsoft 365)
+- [ ] https://de.linkedin.com/jobs/view/working-student-content-und-frontend-plattformen-6-months-fixed-term-m-w-d-at-scout24-se-4437784089 | Scout24 SE | Working Student Content und Frontend Plattformen (6 months fixed-term) (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-engineering-softwarebibliotheken-m-w-d-at-ge-vernova-4437808907 | GE Vernova | Werkstudent im Bereich Engineering - Softwarebibliotheken (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-elektrotechnik-at-siemens-4436824380 | Siemens | Werkstudent (w/m/d) Elektrotechnik
+- [ ] https://de.linkedin.com/jobs/view/sch%C3%BClerpraktikant-freiwilliges-praktikum-technisch-in-den-ferien-w-m-x-im-werk-berlin-at-bmw-group-4434811550 | BMW Group | Schülerpraktikant (freiwilliges Praktikum) technisch in den Ferien (w/m/x) im Werk Berlin
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-frontend-3d-softwareentwicklung-m-w-d-three-js-react-js-optional-python-at-think3ddd-4433909207 | Think3DDD | Praktikum Frontend & 3D-Softwareentwicklung (m/w/d) - three.js, React.js & optional Python
 - [ ] https://de.linkedin.com/jobs/view/solution-engineer-working-student-w-m-d-at-caya-4433949244 | Caya | Solution Engineer Working Student (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/student-genai-engineer-at-abacus-medicine-group-4433913357 | Abacus Medicine Group | Student GenAI Engineer
