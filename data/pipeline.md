@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/ai-first-engineering-intern-at-xsolla-4436638167 | Xsolla | AI-First Engineering Intern
+- [ ] https://de.linkedin.com/jobs/view/intern-finance-technology-at-on-4439351507 | On | Intern - Finance Technology
+- [ ] https://de.linkedin.com/jobs/view/intern-finance-technology-at-on-4438372377 | On | Intern - Finance Technology
+- [ ] https://de.linkedin.com/jobs/view/praktikum-im-business-development-business-analyst-automation-engineer-applied-ai-engineer-m-w-d-at-pflegia-4438394861 | Pflegia | Praktikum im Business Development (Business Analyst/Automation Engineer/Applied AI Engineer) (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/ai-for-self-development-student-internship-at-wellbeing-ai-research-4439534701 | Wellbeing AI Research | AI for Self-Development - Student Internship
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-communications-media-production-in-sap-analytics-cloud-at-sap-4429675620 | SAP | Working Student (f/m/d) - Communications / Media Production in SAP Analytics Cloud
+- [ ] https://de.linkedin.com/jobs/view/working-student-marketing-b2b-fintech-all-genders-at-qwist-4435974569 | Qwist | Working Student - Marketing B2B FinTech (all genders)
+- [ ] https://de.linkedin.com/jobs/view/business-development-intern-m-w-d-software-startup-at-mateo-4436619013 | Mateo | Business Development Intern (m/w/d) - Software Startup
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-frontend-development-at-nerou-gmbh-4437351944 | nerou GmbH | Werkstudent:in Frontend Development
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-frontend-intern-at-heidi-systems-4434887230 | Heidi Systems | Software Engineer (Frontend) - Intern
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-data-science-at-nerou-gmbh-4437373126 | nerou GmbH | Werkstudent:in Data Science
