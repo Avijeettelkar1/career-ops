@@ -1,12 +1,13 @@
-# 🌅 Morning Berlin Tech Jobs - 7/13/2026
+# 🌅 Morning Berlin Tech Jobs - 7/15/2026
 
-Generated at: **11:51:27 AM**
-Found **5** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **10:41:55 AM**
+Found **6** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **SAP Fioneer** | Cloud-Native Frontend Developer Intern (f/m/d) | [View Job](https://de.linkedin.com/jobs/view/cloud-native-frontend-developer-intern-f-m-d-at-sap-fioneer-4439142900) |
-| **SAP** | Working Student (f/m/d) - Operations & Data Analytics (MEE Revenue Operations) | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-operations-data-analytics-mee-revenue-operations-at-sap-4439159165) |
-| **SAP** | Werkstudent (m/w/d) - (w/m/d) - Operations & Data Analytics (MEE Revenue Operations) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-w-m-d-operations-data-analytics-mee-revenue-operations-at-sap-4439144953) |
-| **BCG X** | Visiting Forward Deployed AI Scientist, Internship, Germany - BCG X | [View Job](https://de.linkedin.com/jobs/view/visiting-forward-deployed-ai-scientist-internship-germany-bcg-x-at-bcg-x-4390742979) |
-| **yoursquares GmbH** | Praktikum Founders Associate bei PropTech Start-Up (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-founders-associate-bei-proptech-start-up-m-w-d-at-yoursquares-gmbh-4440011187) |
+| **Deutsche Bahn** | Praktikum Data Analytics & Business Intelligence (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-data-analytics-business-intelligence-w-m-d-at-deutsche-bahn-4440905125) |
+| **Redcare Pharmacy** | Working Student – Product Data & Analytics | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-product-data-analytics-at-redcare-pharmacy-4438061979) |
+| **Deutsche Bahn** | Praktikum Verfahrens- und Technologieentwicklung (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-verfahrens-und-technologieentwicklung-w-m-d-at-deutsche-bahn-4432091020) |
+| **Siemens** | Werkstudent (w/m/d) Reprotechnik & Dokumentenmanagement | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-reprotechnik-dokumentenmanagement-at-siemens-4439872979) |
+| **MHP – A Porsche Company** | Werkstudent:in Hardware- und Integrationstests für AutoID-Technologien (f/m/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-hardware-und-integrationstests-f%C3%BCr-autoid-technologien-f-m-d-at-mhp-%E2%80%93-a-porsche-company-4440541783) |
+| **Taxforce** | Workings Student Tax & Finance (f/m/d) - AI Tax Startup | [View Job](https://de.linkedin.com/jobs/view/workings-student-tax-finance-f-m-d-ai-tax-startup-at-taxforce-4438070896) |
