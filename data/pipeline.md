@@ -2,6 +2,19 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-backend-softwareentwicklung-ki-m-w-d-python-apis-medtech-at-think3ddd-4438434467 | Think3DDD | Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech
+- [ ] https://de.linkedin.com/jobs/view/working-student-automations-ai-f-m-d-at-nilo-4440608627 | nilo | Working Student Automations/AI (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-frontend-development-at-nerou-gmbh-4440269388 | nerou GmbH | Werkstudent:in Frontend Development
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-ai-operations-m-f-d-at-montredo-4435104406 | MONTREDO | Working Student – AI Operations (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-data-science-at-nerou-gmbh-4440295999 | nerou GmbH | Werkstudent:in Data Science
+- [ ] https://de.linkedin.com/jobs/view/studentische-mitarbeiter-praktikanten-duale-studenten-all-genders-electronic-testing-software-testing-1051-at-joyson-safety-systems-hungary-4441418420 | Joyson Safety Systems Hungary | Studentische Mitarbeiter/Praktikanten/Duale Studenten (all genders) Electronic Testing - Software Testing(1051)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ki-prozess-automatisierung-at-otb-gmbh-4438438894 | OTB GmbH | Werkstudent (m/w/d) KI & Prozess-Automatisierung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-chapter-ai-at-dkb-deutsche-kreditbank-ag-4438442764 | DKB | Deutsche Kreditbank AG | Werkstudent Chapter AI
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%9Cpackaging-data-specifications%E2%80%9D-w-m-d-i-berlin-hybrid-at-packmatic-4438465445 | Packmatic | Working Student “Packaging Data & Specifications” (w/m/d) I Berlin (hybrid)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-e-textiles-technologien-at-fraunhofer-izm-4440259443 | Fraunhofer IZM | Studentische Hilfskraft - E-Textiles Technologien
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-m-w-d-im-bereich-der-hochpr%C3%A4zisionstechnik-at-fraunhofer-ipk-4441445775 | Fraunhofer IPK | Studentische Hilfskraft (m,w,d) im Bereich der Hochpräzisionstechnik
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-produktmanagement-w-m-d-techagentur-at-vt-netzwelt-4438469687 | VT Netzwelt | Werkstudent Produktmanagement (w/m/d) Techagentur
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-data-analytics-business-intelligence-w-m-d-at-deutsche-bahn-4440905125 | Deutsche Bahn | Praktikum Data Analytics & Business Intelligence (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-product-data-analytics-at-redcare-pharmacy-4438061979 | Redcare Pharmacy | Working Student – Product Data & Analytics
 - [ ] https://de.linkedin.com/jobs/view/praktikum-verfahrens-und-technologieentwicklung-w-m-d-at-deutsche-bahn-4432091020 | Deutsche Bahn | Praktikum Verfahrens- und Technologieentwicklung (w/m/d)
