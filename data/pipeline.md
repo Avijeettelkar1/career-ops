@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) 
+
+- [ ] https://de.linkedin.com/jobs/view/intern-%E2%80%93-network-developer-ev-charging-infrastructure-at-allego-4439240462 | Allego | Intern – Network Developer EV Charging infrastructure
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-it-infrastructure-engineering-w-m-d-at-hisolutions-ag-4442172133 | HiSolutions AG | Werkstudent IT Infrastructure Engineering (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/intern-data-analyst-at-alpine-business-consulting-4441388551 | Alpine Business Consulting | Intern - Data Analyst
+- [ ] https://de.linkedin.com/jobs/view/working-student-finance-transformation-and-ai-analytics-m-f-d-berlin-at-otis-elevator-co-4441330940 | Otis Elevator Co. | Working Student Finance - Transformation and AI Analytics (m/f/d) Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-founders-associate-strategie-ai-company-building-w-m-d-berlin-at-scaleon-4439293592 | scaleon | Werkstudent Founders Associate - Strategie, AI & Company Building (w/m/d) Berlin
+- [ ] https://de.linkedin.com/jobs/view/phd-internship-f-m-d-ai-research-knowledge-graphs-for-agentic-ai-at-sap-4441347949 | SAP | PhD Internship (f/m/d) - AI Research - Knowledge Graphs for Agentic AI
+
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-backend-softwareentwicklung-ki-m-w-d-python-apis-medtech-at-think3ddd-4438434467 | Think3DDD | Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech
 - [ ] https://de.linkedin.com/jobs/view/working-student-automations-ai-f-m-d-at-nilo-4440608627 | nilo | Working Student Automations/AI (f/m/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-frontend-development-at-nerou-gmbh-4440269388 | nerou GmbH | Werkstudent:in Frontend Development
