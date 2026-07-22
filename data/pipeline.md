@@ -2,6 +2,18 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/intern-working-student-frontend-at-hallocharly-zaitgeist-4442982919 | HalloCharly / Zaitgeist | Intern / Working Student Frontend
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-product-data-analytics-at-redcare-pharmacy-4440454775 | Redcare Pharmacy | Working Student – Product Data & Analytics
+- [ ] https://de.linkedin.com/jobs/view/praktikant-ai-governance-in-pharma-medtech-m-w-d-in-berlin-at-deloitte-4443393044 | Deloitte | Praktikant AI Governance in Pharma & MedTech (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/founder-s-associate-intern-growth-sales-ai-at-forward-earth-4442631576 | forward earth | Founder's Associate Intern - Growth, Sales & AI
+- [ ] https://de.linkedin.com/jobs/view/studentische-oder-wissenschaftliche-hilfskraft-im-bereich-ki-gest%C3%BCtzte-desinformationserkennung-f%C3%BCr-jugendliche-at-fzi-research-center-for-information-technology-4443365187 | FZI Research Center for Information Technology | Studentische oder wissenschaftliche Hilfskraft im Bereich KI-gestützte Desinformationserkennung für Jugendliche
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technology-risk-w-m-d-at-ey-4320288964 | EY | Praktikant Technology Risk (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-im-bereich-systems-engineering-at-fraunhofer-ipk-4443791299 | Fraunhofer IPK | Studentische Hilfskraft im Bereich Systems Engineering
+- [ ] https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-at-mateo-4443777552 | Mateo | Customer Success Internship (m/w/d) - Software Startup
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-gesch%C3%A4ftsentwicklung-ki-public-services-at-dida-4440465698 | dida | Werkstudent*in Geschäftsentwicklung - KI & Public Services
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-sdr-vertrieb-business-development-m-w-d-tech-sales-bei-contentbird-ki-saas-at-conbirdtest123-4443598139 | conbirdTest123 | Werkstudent*in SDR / Vertrieb / Business Development (m/w/d) - Tech-Sales bei contentbird (KI-SaaS)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technische-planung-fahrwerk-methoden-digitalisierung-w-m-x-at-bmw-group-4431547340 | BMW Group | Praktikant Technische Planung Fahrwerk / Methoden & Digitalisierung (w/m/x)
+
 - [ ] https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) 
 
 - [ ] https://de.linkedin.com/jobs/view/intern-%E2%80%93-network-developer-ev-charging-infrastructure-at-allego-4439240462 | Allego | Intern – Network Developer EV Charging infrastructure
