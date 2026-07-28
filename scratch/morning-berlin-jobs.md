@@ -1,18 +1,17 @@
-# 🌅 Morning Berlin Tech Jobs - 7/22/2026
+# 🌅 Morning Berlin Tech Jobs - 7/28/2026
 
-Generated at: **10:57:57 AM**
-Found **11** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **11:09:13 AM**
+Found **10** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **HalloCharly / Zaitgeist** | Intern / Working Student Frontend | [View Job](https://de.linkedin.com/jobs/view/intern-working-student-frontend-at-hallocharly-zaitgeist-4442982919) |
-| **Redcare Pharmacy** | Working Student – Product Data & Analytics | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-product-data-analytics-at-redcare-pharmacy-4440454775) |
-| **Deloitte** | Praktikant AI Governance in Pharma & MedTech (m/w/d) in Berlin | [View Job](https://de.linkedin.com/jobs/view/praktikant-ai-governance-in-pharma-medtech-m-w-d-in-berlin-at-deloitte-4443393044) |
-| **forward earth** | Founder's Associate Intern - Growth, Sales & AI | [View Job](https://de.linkedin.com/jobs/view/founder-s-associate-intern-growth-sales-ai-at-forward-earth-4442631576) |
-| **FZI Research Center for Information Technology** | Studentische oder wissenschaftliche Hilfskraft im Bereich KI-gestützte Desinformationserkennung für Jugendliche | [View Job](https://de.linkedin.com/jobs/view/studentische-oder-wissenschaftliche-hilfskraft-im-bereich-ki-gest%C3%BCtzte-desinformationserkennung-f%C3%BCr-jugendliche-at-fzi-research-center-for-information-technology-4443365187) |
-| **EY** | Praktikant Technology Risk (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikant-technology-risk-w-m-d-at-ey-4320288964) |
-| **Fraunhofer IPK** | Studentische Hilfskraft im Bereich Systems Engineering | [View Job](https://de.linkedin.com/jobs/view/studentische-hilfskraft-im-bereich-systems-engineering-at-fraunhofer-ipk-4443791299) |
-| **Mateo** | Customer Success Internship (m/w/d) - Software Startup | [View Job](https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-at-mateo-4443777552) |
-| **dida** | Werkstudent*in Geschäftsentwicklung - KI & Public Services | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-gesch%C3%A4ftsentwicklung-ki-public-services-at-dida-4440465698) |
-| **conbirdTest123** | Werkstudent*in SDR / Vertrieb / Business Development (m/w/d) - Tech-Sales bei contentbird (KI-SaaS) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-sdr-vertrieb-business-development-m-w-d-tech-sales-bei-contentbird-ki-saas-at-conbirdtest123-4443598139) |
-| 🚨 **BMW Group (TARGET)** | Praktikant Technische Planung Fahrwerk / Methoden & Digitalisierung (w/m/x) | [View Job](https://de.linkedin.com/jobs/view/praktikant-technische-planung-fahrwerk-methoden-digitalisierung-w-m-x-at-bmw-group-4431547340) |
+| **Meisterpfad** | Product Engineering Intern | [View Job](https://de.linkedin.com/jobs/view/product-engineering-intern-at-meisterpfad-4442865379) |
+| **PwC Deutschland** | Praktikant / Werkstudent Cloud Transformation (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4445155448) |
+| **TractEasy** | AI Adoption Intern (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/ai-adoption-intern-m-f-d-at-tracteasy-4435674067) |
+| **IONOS** | Working Student (f/m/d) AI Growth Marketing (B2B) | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-growth-marketing-b2b-at-ionos-4445965294) |
+| **IONOS** | Werkstudent (w/m/d) AI Growth Marketing (B2B) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-ai-growth-marketing-b2b-at-ionos-4445963316) |
+| **Reonic** | Venture Development Intern - New Products (Greentech) (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/venture-development-intern-new-products-greentech-m-f-d-at-reonic-4445949341) |
+| **Porsche Consulting** | Praktikant (all genders) in der Managementberatung - Development & Technology | [View Job](https://de.linkedin.com/jobs/view/praktikant-all-genders-in-der-managementberatung-development-technology-at-porsche-consulting-4378340479) |
+| **Dassault Systèmes** | Internship (m/f/d) CATIA Concept Engineering | [View Job](https://de.linkedin.com/jobs/view/internship-m-f-d-catia-concept-engineering-at-dassault-syst%C3%A8mes-4445981659) |
+| **nu:legal** | Werkstudent Legal & LegalTech | [View Job](https://de.linkedin.com/jobs/view/werkstudent-legal-legaltech-at-nu-legal-4445135439) |
+| **IN2 Engineering** | Sustainability Engineering Intern | [View Job](https://de.linkedin.com/jobs/view/sustainability-engineering-intern-at-in2-engineering-4446105808) |

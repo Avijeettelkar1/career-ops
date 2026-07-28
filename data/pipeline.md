@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-meisterpfad-4442865379 | Meisterpfad | Product Engineering Intern
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4445155448 | PwC Deutschland | Praktikant / Werkstudent Cloud Transformation (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/ai-adoption-intern-m-f-d-at-tracteasy-4435674067 | TractEasy | AI Adoption Intern (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-growth-marketing-b2b-at-ionos-4445965294 | IONOS | Working Student (f/m/d) AI Growth Marketing (B2B)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-ai-growth-marketing-b2b-at-ionos-4445963316 | IONOS | Werkstudent (w/m/d) AI Growth Marketing (B2B)
+- [ ] https://de.linkedin.com/jobs/view/venture-development-intern-new-products-greentech-m-f-d-at-reonic-4445949341 | Reonic | Venture Development Intern - New Products (Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-all-genders-in-der-managementberatung-development-technology-at-porsche-consulting-4378340479 | Porsche Consulting | Praktikant (all genders) in der Managementberatung - Development & Technology
+- [ ] https://de.linkedin.com/jobs/view/internship-m-f-d-catia-concept-engineering-at-dassault-syst%C3%A8mes-4445981659 | Dassault Systèmes | Internship (m/f/d) CATIA Concept Engineering
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-legal-legaltech-at-nu-legal-4445135439 | nu:legal | Werkstudent Legal & LegalTech
+- [ ] https://de.linkedin.com/jobs/view/sustainability-engineering-intern-at-in2-engineering-4446105808 | IN2 Engineering | Sustainability Engineering Intern
+
 - [ ] https://de.linkedin.com/jobs/view/intern-working-student-frontend-at-hallocharly-zaitgeist-4442982919 | HalloCharly / Zaitgeist | Intern / Working Student Frontend
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-product-data-analytics-at-redcare-pharmacy-4440454775 | Redcare Pharmacy | Working Student – Product Data & Analytics
 - [ ] https://de.linkedin.com/jobs/view/praktikant-ai-governance-in-pharma-medtech-m-w-d-in-berlin-at-deloitte-4443393044 | Deloitte | Praktikant AI Governance in Pharma & MedTech (m/w/d) in Berlin
