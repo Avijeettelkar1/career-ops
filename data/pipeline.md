@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-f-m-d-signavio-next-development-agentic-ai-at-sap-4445742556 | SAP | SAP iXp Intern (f/m/d)- Signavio Next Development - Agentic AI
+- [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-w-m-d-signavio-next-development-agentic-ai-at-sap-4445726688 | SAP | SAP iXp Intern (w/m/d)- Signavio Next Development - Agentic AI
+- [ ] https://de.linkedin.com/jobs/view/founder-s-associate-ai-process-optimisation-intern-fulltime-at-heidi-systems-4443672533 | Heidi Systems | Founder's Associate - AI & Process Optimisation (Intern & Fulltime)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-im-vplc-connectivity-solutions-ai-automation-f-m-d-at-mhp-%E2%80%93-a-porsche-company-4443278630 | MHP – A Porsche Company | Werkstudent im vPLC, Connectivity Solutions & AI Automation (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-video-editing-ai-at-glorya-gmbh-4443284163 | Glorya GmbH | Werkstudent Video Editing & AI
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-m-w-d-technical-integration-customer-success-at-jameda-4445764695 | Jameda | Werkstudent:in (m/w/d) Technical Integration & Customer Success
+- [ ] https://de.linkedin.com/jobs/view/werkstudentenstelle-technische-kundenbetreuung-it-support-at-projektron-gmbh-4443270884 | Projektron GmbH | Werkstudentenstelle - Technische Kundenbetreuung / IT Support
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-content-marketing-m-w-d-at-enneo-ai-4443685862 | enneo.AI | Praktikum AI Content Marketing (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-datenpflege-data-entry-m-w-d-at-prefere-resins-4445717645 | Prefere Resins | Werkstudent Datenpflege / Data Entry (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-b2b-sales-business-development-%E2%80%93-ai-startup-m-w-d-at-cito-transport-technologies-gmbh-4443610116 | Cito Transport Technologies GmbH | Werkstudent B2B Sales & Business Development – AI Startup (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-meisterpfad-4442865379 | Meisterpfad | Product Engineering Intern
 - [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4445155448 | PwC Deutschland | Praktikant / Werkstudent Cloud Transformation (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/ai-adoption-intern-m-f-d-at-tracteasy-4435674067 | TractEasy | AI Adoption Intern (m/f/d)
