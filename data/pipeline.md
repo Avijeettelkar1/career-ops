@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://helsing.ai/jobs/4941957101?gh_jid=4941957101 | Helsing | AI Research Intern (PhD) – 3D Computer Vision
+
 - [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-f-m-d-signavio-next-development-agentic-ai-at-sap-4445742556 | SAP | SAP iXp Intern (f/m/d)- Signavio Next Development - Agentic AI
 - [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-w-m-d-signavio-next-development-agentic-ai-at-sap-4445726688 | SAP | SAP iXp Intern (w/m/d)- Signavio Next Development - Agentic AI
 - [ ] https://de.linkedin.com/jobs/view/founder-s-associate-ai-process-optimisation-intern-fulltime-at-heidi-systems-4443672533 | Heidi Systems | Founder's Associate - AI & Process Optimisation (Intern & Fulltime)
