@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-f-m-d-strategic-innovation-projects-data-scientist-at-sap-4447136951 | SAP | SAP iXp Intern (f/m/d) - Strategic Innovation Projects - Data Scientist
+- [ ] https://de.linkedin.com/jobs/view/praktikant-in-data-science-analytics-genai-w-m-d-at-capgemini-invent-4447549830 | Capgemini Invent | Praktikant*in - Data Science / Analytics / GenAI (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-in-data-science-analytics-genai-w-m-d-at-capgemini-invent-4445525764 | Capgemini Invent | Praktikant*in - Data Science / Analytics / GenAI (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-political-data-engineering-w-d-m-at-christ-company-4445512860 | Christ&Company | Praktikum - Political Data Engineering (w/d/m)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-data-intelligence-dashboarding-m-w-d-at-wematch-4447547573 | WeMatch. | Werkstudent Data Intelligence & Dashboarding (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-ai-business-engineering-m-w-d-%E2%80%93-strategy-business-development-at-cubos-4445513291 | CUBOS | Praktikant AI Business Engineering (m/w/d) – Strategy & Business Development
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-legal-operations-ai-automation-at-lovehoney-group-4445085832 | Lovehoney Group | Working Student – Legal Operations & AI Automation
+- [ ] https://de.linkedin.com/jobs/view/praktikant-fsi-technology-strategy-m-w-d-in-berlin-at-deloitte-4390327827 | Deloitte | Praktikant FSI Technology Strategy (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technologie-partnermanagement-w-m-d-at-capgemini-4446333470 | Capgemini | Werkstudent Technologie-Partnermanagement (w/m/d)
+
 - [ ] https://helsing.ai/jobs/4941957101?gh_jid=4941957101 | Helsing | AI Research Intern (PhD) – 3D Computer Vision
 
 - [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-f-m-d-signavio-next-development-agentic-ai-at-sap-4445742556 | SAP | SAP iXp Intern (f/m/d)- Signavio Next Development - Agentic AI
