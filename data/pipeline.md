@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-m-f-d-autonomous-vehicle-testing-software-engineering-at-motor-ai-4446201545 | MOTOR Ai | Working Student (m/f/d) Autonomous Vehicle Testing & Software Engineering
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-webflow-frontend-development-at-v-lab-one-4445860102 | V-LAB ONE | Werkstudent:in Webflow Frontend Development
+- [ ] https://de.linkedin.com/jobs/view/ai-startup-partner-intern-at-accelerate-tomorrow-4447914043 | Accelerate Tomorrow | AI Startup Partner Intern
+- [ ] https://de.linkedin.com/jobs/view/praktikant-management-advisory-schwerpunkt-ai-strategy-implementation-services-w-m-d-at-bdo-germany-4420914558 | BDO Germany | Praktikant Management Advisory Schwerpunkt AI Strategy & Implementation Services (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudentin-werkstudent-wlan-management-und-technischer-support-m-w-d-at-hotsplots-gmbh-4446202387 | hotsplots GmbH | Werkstudentin / Werkstudent WLAN Management und Technischer Support (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/sap-ixp-intern-f-m-d-strategic-innovation-projects-data-scientist-at-sap-4447136951 | SAP | SAP iXp Intern (f/m/d) - Strategic Innovation Projects - Data Scientist
 - [ ] https://de.linkedin.com/jobs/view/praktikant-in-data-science-analytics-genai-w-m-d-at-capgemini-invent-4447549830 | Capgemini Invent | Praktikant*in - Data Science / Analytics / GenAI (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/praktikant-in-data-science-analytics-genai-w-m-d-at-capgemini-invent-4445525764 | Capgemini Invent | Praktikant*in - Data Science / Analytics / GenAI (w/m/d)
