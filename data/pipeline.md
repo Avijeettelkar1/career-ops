@@ -2,6 +2,20 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://sumup.com/careers/positions/8671660002?gh_jid=8671660002 | SumUp | Product Engineer — Working Student
+
+- [ ] https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4446608899 | Art & Science Node | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level
+- [ ] https://de.linkedin.com/jobs/view/venture-development-intern-new-products-ai-x-greentech-m-f-d-at-reonic-4448604811 | Reonic | Venture Development Intern - New Products (AI x Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-knowledge-management-w-m-d-at-enpal-4448376930 | Enpal | Werkstudent:in AI & Knowledge Management (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-data-science-ki-at-now-gmbh-4447973299 | NOW GmbH | Werkstudent*in Data Science & KI
+- [ ] https://de.linkedin.com/jobs/view/ai-adoption-intern-m-f-d-at-tracteasy-4446628154 | TractEasy | AI Adoption Intern (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-im-bereich-legal-tech-funds-at-ypog-4448383824 | YPOG | Werkstudent (m/w/d) im Bereich Legal Tech / Funds
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-sales-engineering-account-management-m-w-d-at-data-spree-gmbh-4446616802 | Data Spree GmbH | Werkstudent Sales Engineering/Account Management (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/growth-intern-automation-ai-at-vrey-4448240063 | VREY | Growth Intern - Automation & AI
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-ai-growth-marketing-b2b-at-ionos-4446217652 | IONOS | Werkstudent (w/m/d) AI Growth Marketing (B2B)
+- [ ] https://de.linkedin.com/jobs/view/electronic-failure-analysis-engineer-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4448196252 | Tesla | Electronic Failure Analysis Engineer Internship (m/f/d) - Gigafactory Berlin-Brandenburg
+- [ ] https://de.linkedin.com/jobs/view/visiting-forward-deployed-ai-engineer-internship-germany-bcg-x-at-bcg-x-4390747937 | BCG X | Visiting Forward Deployed AI Engineer, Internship, Germany - BCG X
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-m-f-d-autonomous-vehicle-testing-software-engineering-at-motor-ai-4446201545 | MOTOR Ai | Working Student (m/f/d) Autonomous Vehicle Testing & Software Engineering
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-webflow-frontend-development-at-v-lab-one-4445860102 | V-LAB ONE | Werkstudent:in Webflow Frontend Development
 - [ ] https://de.linkedin.com/jobs/view/ai-startup-partner-intern-at-accelerate-tomorrow-4447914043 | Accelerate Tomorrow | AI Startup Partner Intern
