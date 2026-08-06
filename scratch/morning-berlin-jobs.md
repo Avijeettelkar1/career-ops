@@ -1,20 +1,21 @@
-# 🌅 Morning Berlin Tech Jobs - 8/5/2026
+# 🌅 Morning Berlin Tech Jobs - 8/6/2026
 
-Generated at: **11:11:58 AM**
-Found **13** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **11:12:11 AM**
+Found **14** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **acemate.ai** | Software Engineer (Intern / Working Student) | [View Job](https://de.linkedin.com/jobs/view/software-engineer-intern-working-student-at-acemate-ai-4446650904) |
-| **over99** | Working Student – Full Stack Engineer (AI) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-full-stack-engineer-ai-at-over99-4448916208) |
-| **over99** | Working Student – Full Stack Engineer (AI) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-full-stack-engineer-ai-at-over99-4446650946) |
-| 🚨 **Tesla (TARGET)** | Software Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg | [View Job](https://de.linkedin.com/jobs/view/software-engineering-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4449462816) |
-| **Reonic** | Software Engineering Intern (AI x Greentech) (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/software-engineering-intern-ai-x-greentech-m-f-d-at-reonic-4448885328) |
-| **Medizinischer Dienst Berlin-Brandenburg** | Werkstudent Data Science (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-data-science-m-w-d-at-medizinischer-dienst-berlin-brandenburg-4448591816) |
-| **Docplanner** | Werkstudent:in (m/w/d) Technical Integration & Customer Success | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-m-w-d-technical-integration-customer-success-at-docplanner-4449442940) |
-| **SumUp** | Product Engineer — Working Student | [View Job](https://de.linkedin.com/jobs/view/product-engineer-%E2%80%94-working-student-at-sumup-4446644507) |
-| **sensmore** | Working Student - Mechatronics Assembly Technician (20 hrs) | [View Job](https://de.linkedin.com/jobs/view/working-student-mechatronics-assembly-technician-20-hrs-at-sensmore-4448885339) |
-| **Testo** | Werkstudent Softwaretest & Qualitätssicherung Cloud & Mobile (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-softwaretest-qualit%C3%A4tssicherung-cloud-mobile-m-w-d-at-testo-4449000752) |
-| **Grizzly Peak Software** | Student Teacher - Intro to Software Engineering and Web (f/m/x) | [View Job](https://de.linkedin.com/jobs/view/student-teacher-intro-to-software-engineering-and-web-f-m-x-at-grizzly-peak-software-4448946587) |
-| **DIN Deutsches Institut für Normung e. V.** | Werkstudent (m/w/d) KI-Technologien für digitale Normen-Anwendung | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ki-technologien-f%C3%BCr-digitale-normen-anwendung-at-din-deutsches-institut-f%C3%BCr-normung-e-v-4448973437) |
-| **PwC Deutschland** | Praktikum Backendentwicklung & DevOps (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-backendentwicklung-devops-w-m-d-at-pwc-deutschland-4448587216) |
+| **Temme Cloud & Tech GmbH** | Praktikum Software Engineering | [View Job](https://de.linkedin.com/jobs/view/praktikum-software-engineering-at-temme-cloud-tech-gmbh-4449654052) |
+| **Cloud Studios** | Vibe Coder / Product Intern (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/vibe-coder-product-intern-m-f-d-at-cloud-studios-4448089749) |
+| **Max Planck Society** | Student Assistant (m/f/d) | Machine Learning or Data Science | [View Job](https://de.linkedin.com/jobs/view/student-assistant-m-f-d-machine-learning-or-data-science-at-max-planck-society-4448409095) |
+| **Flix** | Working Student (f/m/d) - Data Compliance Team | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-data-compliance-team-at-flix-4449677935) |
+| **Lucid Labs** | Werkstudent Consulting & KI-Implementierung (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-consulting-ki-implementierung-m-w-d-at-lucid-labs-4448087308) |
+| **Pegel** | Working Student (f/m/d) - Data Compliance Team | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-data-compliance-team-at-pegel-4449682048) |
+| **Neural Frames** | Working Student - Talent & HR // AI Music Video Platform | [View Job](https://de.linkedin.com/jobs/view/working-student-talent-hr-ai-music-video-platform-at-neural-frames-4449390382) |
+| **GE Vernova** | Werkstudent im Bereich Engineering (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-im-bereich-engineering-m-w-d-at-ge-vernova-4449686040) |
+| **Jobster** | Werkstudent:in Content Creation mit AI (m/w/d) - Studentjob.de | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-content-creation-mit-ai-m-w-d-studentjob-de-at-jobster-4449307750) |
+| **Mateo** | Customer Success Internship (m/w/d) - Software Startup | [View Job](https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-at-mateo-4449331210) |
+| **INAM - Innovation Network for Advanced Materials** | Programme & Events Intern (Deep Tech) | [View Job](https://de.linkedin.com/jobs/view/programme-events-intern-deep-tech-at-inam-innovation-network-for-advanced-materials-4448087319) |
+| **Mateo** | Customer Success Werkstudent (m/w/d) - Software Startup | [View Job](https://de.linkedin.com/jobs/view/customer-success-werkstudent-m-w-d-software-startup-at-mateo-4449310824) |
+| **IONOS** | Werkstudent (w/m/d) Legal Tech | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-legal-tech-at-ionos-4448098777) |
+| **nu:legal** | Werkstudent Legal & LegalTech | [View Job](https://de.linkedin.com/jobs/view/werkstudent-legal-legaltech-at-nu-legal-4449986060) |
