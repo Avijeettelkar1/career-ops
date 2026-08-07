@@ -2,6 +2,18 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-signavio-next-engineering-full-stack-llm-development-at-sap-4440772071 | SAP | Working Student (f/m/d) - Signavio Next Engineering (full-stack LLM development)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-software-entwicklung-testing-at-siemens-4449763415 | Siemens | Werkstudent (w/m/d) Software-Entwicklung/Testing
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-signavio-next-engineering-full-stack-llm-development-at-sap-4440759484 | SAP | Werkstudent (w/m/d) - Signavio Next Engineering (full-stack LLM development)
+- [ ] https://de.linkedin.com/jobs/view/working-student-automation-engineer-m-f-d-at-urban-ground-gmbh-4448426401 | Urban Ground GmbH | Working Student-Automation Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-w-m-d-audit-technology-digital-audit-innovation-at-kpmg-deutschland-4449765427 | KPMG Deutschland | Praktikant / Werkstudent (w/m/d) Audit Technology - Digital Audit Innovation
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-als-python-entwickler-m-w-d-at-dresearch-digital-media-systems-gmbh-4448748943 | DResearch Digital Media Systems GmbH | Werkstudent als Python-Entwickler (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/founder%E2%80%99s-associate-intern-product-ai-m-w-d-at-quantum-stack-jobs-4450031199 | Quantum Stack Jobs | Founder’s Associate Intern - Product & AI (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ki-und-innovation-at-deutsche-bahn-4448710189 | Deutsche Bahn | Werkstudent:in KI und Innovation
+- [ ] https://de.linkedin.com/jobs/view/praktikant-in-projekt-produktmanagement-fokus-ai-m-w-d-at-brandung-4448429776 | BRANDUNG | Praktikant:in Projekt- & Produktmanagement - Fokus AI (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-it-communications-ai-content-innovation-w-m-d-at-kpmg-it-service-gmbh-4449773244 | KPMG IT Service GmbH | Werkstudent IT Communications & AI Content Innovation (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-technical-asset-management-at-home-co-4448456298 | Home & Co | Working Student Technical Asset Management
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-software-engineering-at-temme-cloud-tech-gmbh-4449654052 | Temme Cloud & Tech GmbH | Praktikum Software Engineering
 - [ ] https://de.linkedin.com/jobs/view/vibe-coder-product-intern-m-f-d-at-cloud-studios-4448089749 | Cloud Studios | Vibe Coder / Product Intern (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/student-assistant-m-f-d-machine-learning-or-data-science-at-max-planck-society-4448409095 | Max Planck Society | Student Assistant (m/f/d) | Machine Learning or Data Science
