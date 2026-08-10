@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikum-im-business-development-business-analyst-automation-engineer-applied-ai-engineer-m-w-d-at-pflegia-4451120129 | Pflegia | Praktikum im Business Development (Business Analyst/Automation Engineer/Applied AI Engineer) (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-bereich-digital-transformation-configuration-frontends-at-carra-4451112608 | Carra | Werkstudent:in im Bereich Digital Transformation - Configuration & Frontends
+- [ ] https://de.linkedin.com/jobs/view/business-development-intern-m-w-d-software-startup-at-mateo-4449510538 | Mateo | Business Development Intern (m/w/d) - Software Startup
+- [ ] https://de.linkedin.com/jobs/view/ey-parthenon-praktikant-deal-management-deal-technology-w-m-d-at-ey-parthenon-4320219062 | EY-Parthenon | EY-Parthenon Praktikant Deal Management & Deal Technology (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/staff-ai-engineer-d-f-m-internal-ai-at-personio-4421191565 | Personio | Staff AI Engineer (d/f/m) - Internal AI
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-signavio-next-engineering-full-stack-llm-development-at-sap-4440772071 | SAP | Working Student (f/m/d) - Signavio Next Engineering (full-stack LLM development)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-software-entwicklung-testing-at-siemens-4449763415 | Siemens | Werkstudent (w/m/d) Software-Entwicklung/Testing
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-signavio-next-engineering-full-stack-llm-development-at-sap-4440759484 | SAP | Werkstudent (w/m/d) - Signavio Next Engineering (full-stack LLM development)
