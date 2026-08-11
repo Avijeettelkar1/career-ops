@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/informatikpraktikum-e-commerce-im-verlag-berlin-front-backend-at-verlag-hom%C3%B6opathie-%2B-symbol-4449837356 | Verlag Homöopathie + Symbol | Informatikpraktikum E-Commerce im Verlag (Berlin) (Front/Backend)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-audit-capture-ai-solutions-m-w-d-in-berlin-at-deloitte-4451547470 | Deloitte | Werkstudent Audit Capture & AI Solutions (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/praktikant-produktion-ki-motorradmontage-w-m-x-at-bmw-group-4451652824 | BMW Group | Praktikant Produktion & KI - Motorradmontage (w/m/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-bereich-digital-transformation-configuration-frontends-at-vattenfall-4451123541 | Vattenfall | Werkstudent:in im Bereich Digital Transformation - Configuration & Frontends
+- [ ] https://de.linkedin.com/jobs/view/ai-startup-partner-intern-at-accelerate-tomorrow-4451148935 | Accelerate Tomorrow | AI Startup Partner Intern
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-im-business-development-business-analyst-automation-engineer-applied-ai-engineer-m-w-d-at-pflegia-4451120129 | Pflegia | Praktikum im Business Development (Business Analyst/Automation Engineer/Applied AI Engineer) (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-bereich-digital-transformation-configuration-frontends-at-carra-4451112608 | Carra | Werkstudent:in im Bereich Digital Transformation - Configuration & Frontends
 - [ ] https://de.linkedin.com/jobs/view/business-development-intern-m-w-d-software-startup-at-mateo-4449510538 | Mateo | Business Development Intern (m/w/d) - Software Startup
