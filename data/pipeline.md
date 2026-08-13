@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-m-f-d-at-corning-incorporated-4453605085 | Corning Incorporated | Working Student - Software Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-data-science-at-nerou-gmbh-4452779365 | nerou GmbH | Werkstudent:in Data Science
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-data-science-ai-at-flex-capital-4450130660 | FLEX Capital | Werkstudent (w/m/d) Data Science & AI
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-fullstack-softwareentwicklung-alle-geschlechter-at-ebk-gruppe-4450145369 | EBK Gruppe | Werkstudent:in - Fullstack Softwareentwicklung (alle Geschlechter)
+- [ ] https://de.linkedin.com/jobs/view/data-analyst-intern-at-pixel-systems-4452387430 | Pixel Systems | Data Analyst - Intern
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-at-genx-leadership-academy-4453678019 | GenX Leadership Academy | Software Engineer Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-klimafreundliche-busse-data-analysis-at-now-gmbh-4452930564 | NOW GmbH | Werkstudent*in Klimafreundliche Busse (Data Analysis)
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-visual-design-video-creation-for-ai-innovation-at-sap-4452920626 | SAP | Working Student (f/m/d) - Visual Design & Video Creation for AI Innovation
+
 - [ ] https://de.linkedin.com/jobs/view/informatikpraktikum-e-commerce-im-verlag-berlin-front-backend-at-verlag-hom%C3%B6opathie-%2B-symbol-4449837356 | Verlag Homöopathie + Symbol | Informatikpraktikum E-Commerce im Verlag (Berlin) (Front/Backend)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-audit-capture-ai-solutions-m-w-d-in-berlin-at-deloitte-4451547470 | Deloitte | Werkstudent Audit Capture & AI Solutions (m/w/d) in Berlin
 - [ ] https://de.linkedin.com/jobs/view/praktikant-produktion-ki-motorradmontage-w-m-x-at-bmw-group-4451652824 | BMW Group | Praktikant Produktion & KI - Motorradmontage (w/m/x)
