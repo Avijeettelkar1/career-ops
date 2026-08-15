@@ -2,6 +2,14 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-agentic-ai-data-ai-m-w-d-at-atos-4451269721 | Atos | Werkstudent Agentic AI (Data & AI) (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4451244841 | Transdev GmbH | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-software-automation-embedded-systems-m-w-d-at-rohde-schwarz-4453703378 | Rohde & Schwarz | Werkstudent Software Automation Embedded Systems (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudentin-hr-projekte-digitalisierung-ki-w-m-d-at-gasag-gruppe-4444007170 | GASAG Gruppe | Werkstudentin HR Projekte, Digitalisierung & KI (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technology-strategy-m-w-d-in-berlin-at-deloitte-4404047431 | Deloitte | Praktikant Technology Strategy (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-social-media-content-ai-content-creation-siggis-pharm-at-demecan-4451221189 | DEMECAN | Werkstudent (m/w/d) Social Media Content & AI Content Creation - Siggis Pharm
+- [ ] https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-at-instaffo-4444785572 | Instaffo | Customer Success Internship (m/w/d) - Software Startup
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-software-engineer-m-f-d-at-corning-incorporated-4453605085 | Corning Incorporated | Working Student - Software Engineer (m/f/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-data-science-at-nerou-gmbh-4452779365 | nerou GmbH | Werkstudent:in Data Science
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-data-science-ai-at-flex-capital-4450130660 | FLEX Capital | Werkstudent (w/m/d) Data Science & AI

@@ -1,15 +1,14 @@
-# 🌅 Morning Berlin Tech Jobs - 8/13/2026
+# 🌅 Morning Berlin Tech Jobs - 8/15/2026
 
-Generated at: **9:53:24 AM**
-Found **8** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **9:16:19 AM**
+Found **7** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **Corning Incorporated** | Working Student - Software Engineer (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/working-student-software-engineer-m-f-d-at-corning-incorporated-4453605085) |
-| **nerou GmbH** | Werkstudent:in Data Science | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-data-science-at-nerou-gmbh-4452779365) |
-| **FLEX Capital** | Werkstudent (w/m/d) Data Science & AI | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-data-science-ai-at-flex-capital-4450130660) |
-| **EBK Gruppe** | Werkstudent:in - Fullstack Softwareentwicklung (alle Geschlechter) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-fullstack-softwareentwicklung-alle-geschlechter-at-ebk-gruppe-4450145369) |
-| **Pixel Systems** | Data Analyst - Intern | [View Job](https://de.linkedin.com/jobs/view/data-analyst-intern-at-pixel-systems-4452387430) |
-| **GenX Leadership Academy** | Software Engineer Intern | [View Job](https://de.linkedin.com/jobs/view/software-engineer-intern-at-genx-leadership-academy-4453678019) |
-| **NOW GmbH** | Werkstudent*in Klimafreundliche Busse (Data Analysis) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-klimafreundliche-busse-data-analysis-at-now-gmbh-4452930564) |
-| **SAP** | Working Student (f/m/d) - Visual Design & Video Creation for AI Innovation | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-visual-design-video-creation-for-ai-innovation-at-sap-4452920626) |
+| **Atos** | Werkstudent Agentic AI (Data & AI) (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-agentic-ai-data-ai-m-w-d-at-atos-4451269721) |
+| **Transdev GmbH** | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4451244841) |
+| **Rohde & Schwarz** | Werkstudent Software Automation Embedded Systems (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-software-automation-embedded-systems-m-w-d-at-rohde-schwarz-4453703378) |
+| **GASAG Gruppe** | Werkstudentin HR Projekte, Digitalisierung & KI (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudentin-hr-projekte-digitalisierung-ki-w-m-d-at-gasag-gruppe-4444007170) |
+| **Deloitte** | Praktikant Technology Strategy (m/w/d) in Berlin | [View Job](https://de.linkedin.com/jobs/view/praktikant-technology-strategy-m-w-d-in-berlin-at-deloitte-4404047431) |
+| **DEMECAN** | Werkstudent (m/w/d) Social Media Content & AI Content Creation - Siggis Pharm | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-social-media-content-ai-content-creation-siggis-pharm-at-demecan-4451221189) |
+| **Instaffo** | Customer Success Internship (m/w/d) - Software Startup | [View Job](https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-at-instaffo-4444785572) |
