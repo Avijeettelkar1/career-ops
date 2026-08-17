@@ -2,6 +2,10 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%9Cpackaging-data-specifications%E2%80%9D-w-m-d-i-berlin-hybrid-at-packmatic-4455246219 | Packmatic | Working Student “Packaging Data & Specifications” (w/m/d) I Berlin (hybrid)
+- [ ] https://de.linkedin.com/jobs/view/ai-startup-partner-intern-at-accelerate-tomorrow-4454239268 | Accelerate Tomorrow | AI Startup Partner Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-people-hr-management-bereich-people-enterprise-tech-at-mercedes-benz-bank-ag-4455260221 | Mercedes-Benz Bank AG | Werkstudent*in People-/ HR-Management (Bereich People & Enterprise Tech)
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-agentic-ai-data-ai-m-w-d-at-atos-4451269721 | Atos | Werkstudent Agentic AI (Data & AI) (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4451244841 | Transdev GmbH | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-software-automation-embedded-systems-m-w-d-at-rohde-schwarz-4453703378 | Rohde & Schwarz | Werkstudent Software Automation Embedded Systems (m/w/d)
