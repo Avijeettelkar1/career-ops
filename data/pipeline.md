@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/embodied-robotics-uav-engineer-unpaid-internship-equity-possible-at-omokai-4455895262 | Omokai | Embodied Robotics/UAV Engineer(Unpaid Internship - Equity possible)
+- [ ] https://de.linkedin.com/jobs/view/ai-research-intern-phd-%E2%80%93-3d-computer-vision-at-helsing-4445022687 | Helsing | AI Research Intern (PhD) – 3D Computer Vision
+- [ ] https://de.linkedin.com/jobs/view/frontend-development-internship-at-pixel-systems-4457461661 | Pixel Systems | Frontend Development Internship
+- [ ] https://de.linkedin.com/jobs/view/working-student-web3-product-tech-at-over99-4458718471 | over99 | Working Student - Web3 Product & Tech
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-technical-sales-business-development-m-w-d-medizintechnik-3d-druck-at-think3ddd-4455880226 | Think3DDD | Pflichtpraktikum Technical Sales & Business Development (m/w/d) - Medizintechnik & 3D-Druck
+
 - [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-internship-embedded-development-at-amazon-web-services-aws-4455341537 | Amazon Web Services (AWS) | Software Dev Engineer internship - Embedded Development
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-softwareentwicklung-at-siemens-4454293307 | Siemens | Werkstudent (w/m/d) Softwareentwicklung
 - [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4454296156 | PwC Deutschland | Praktikant / Werkstudent Cloud Transformation (w/m/d)
