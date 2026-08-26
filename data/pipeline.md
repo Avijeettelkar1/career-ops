@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-ai-healthcare-startup-at-catalys-4456958178 | Catalys | Software Engineering Intern - AI Healthcare Startup
+- [ ] https://de.linkedin.com/jobs/view/working-student-web3-product-tech-at-over99-4457490516 | over99 | Working Student - Web3 Product & Tech
+- [ ] https://de.linkedin.com/jobs/view/working-student-data-analytics-at-knime-4457461959 | KNIME | Working Student, Data & Analytics
+- [ ] https://de.linkedin.com/jobs/view/working-student-data-analytics-m-f-d-at-knime-4458742157 | KNIME | Working Student, Data & Analytics (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-frontend-entwicklung-w-m-d-at-pwc-deutschland-4457479162 | PwC Deutschland | Praktikum Frontend Entwicklung (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/technical-founders-associate-intern-at-lyceum-4457906612 | Lyceum | Technical Founders Associate (Intern)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-it-hardware-office-tech-gn-at-intermate-%E2%80%93-full-service-social-media-agency-4457606753 | Intermate – Full Service Social Media Agency | Werkstudent:in IT Hardware & Office Tech (gn)
+- [ ] https://de.linkedin.com/jobs/view/gtm-strategy-intern-ai-healthcare-startup-at-catalys-4456951414 | Catalys | GTM Strategy Intern - AI Healthcare Startup
+
 - [ ] https://de.linkedin.com/jobs/view/embodied-robotics-uav-engineer-unpaid-internship-equity-possible-at-omokai-4455895262 | Omokai | Embodied Robotics/UAV Engineer(Unpaid Internship - Equity possible)
 - [ ] https://de.linkedin.com/jobs/view/ai-research-intern-phd-%E2%80%93-3d-computer-vision-at-helsing-4445022687 | Helsing | AI Research Intern (PhD) – 3D Computer Vision
 - [ ] https://de.linkedin.com/jobs/view/frontend-development-internship-at-pixel-systems-4457461661 | Pixel Systems | Frontend Development Internship
