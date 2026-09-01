@@ -2,6 +2,20 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://careers.hellofresh.com/global/en/job/8168385?gh_jid=8168385 | HelloFresh | International Category Manager - DAI (F/M/X)
+
+- [ ] https://de.linkedin.com/jobs/view/praktikant-ai-data-engineering-m-w-d-at-deloitte-4461547295 | Deloitte | Praktikant AI & Data Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-data-analyst-d-f-m-at-bettermile-4461087813 | Bettermile | Working Student Data Analyst (d/f/m)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-engineering-cloud-at-thales-4452430528 | Thales | Werkstudent (m/w/d) Engineering Cloud
+- [ ] https://de.linkedin.com/jobs/view/praktikant-ai-business-engineering-m-w-d-%E2%80%93-strategy-business-development-at-cubos-4459509500 | CUBOS | Praktikant AI Business Engineering (m/w/d) – Strategy & Business Development
+- [ ] https://de.linkedin.com/jobs/view/praktikant-all-genders-in-der-managementberatung-data-analytics-and-artificial-intelligence-at-porsche-consulting-4461243378 | Porsche Consulting | Praktikant (all genders) in der Managementberatung - Data Analytics and Artificial Intelligence
+- [ ] https://de.linkedin.com/jobs/view/student-junior-wearable-hardware-embedded-engineer-16hr-week-at-rina-4458838489 | RINA | Student / Junior Wearable Hardware & Embedded Engineer(16hr/week))
+- [ ] https://de.linkedin.com/jobs/view/master%40ibm-working-student-automation-customer-success-engineer-f-m-x-at-ibm-4457797431 | IBM | Master@IBM - Working Student - Automation Customer Success Engineer (f/m/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-webflow-frontend-development-at-v-lab-one-4459518650 | V-LAB ONE | Werkstudent:in Webflow Frontend Development
+- [ ] https://de.linkedin.com/jobs/view/praktikum-associate-consultant-healthcare-life-sciences-%E2%80%93-data-science-m-w-d-at-simon-kucher-4459298464 | Simon-Kucher | Praktikum Associate Consultant Healthcare & Life Sciences – Data Science (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technische-planung-methoden-digitalisierung-w-m-x-at-bmw-group-4460017798 | BMW Group | Praktikant Technische Planung / Methoden & Digitalisierung (w/m/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-technisches-backoffice-im-bereich-neuanlagen-und-modernisierung-at-schindler-group-4459508607 | Schindler Group | Werkstudent (m/w/d) technisches Backoffice im Bereich Neuanlagen und Modernisierung
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-ai-healthcare-startup-at-catalys-4456958178 | Catalys | Software Engineering Intern - AI Healthcare Startup
 - [ ] https://de.linkedin.com/jobs/view/working-student-web3-product-tech-at-over99-4457490516 | over99 | Working Student - Web3 Product & Tech
 - [ ] https://de.linkedin.com/jobs/view/working-student-data-analytics-at-knime-4457461959 | KNIME | Working Student, Data & Analytics
