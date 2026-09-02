@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c | Perplexity | Internship - Machine Learning Research Engineer
+
 - [ ] https://careers.hellofresh.com/global/en/job/8168385?gh_jid=8168385 | HelloFresh | International Category Manager - DAI (F/M/X)
 
 - [ ] https://de.linkedin.com/jobs/view/praktikant-ai-data-engineering-m-w-d-at-deloitte-4461547295 | Deloitte | Praktikant AI & Data Engineering (m/w/d)
