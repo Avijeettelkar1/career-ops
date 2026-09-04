@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-working-student-at-acemate-ai-4460726402 | acemate.ai | Software Engineer (Intern / Working Student)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-m-w-d-f%C3%BCr-softwareentwicklung-in-c%2B%2B-im-bereich-medizintechnik-und-robotik-at-fraunhofer-ipk-4462874177 | Fraunhofer IPK | Studentische Hilfskraft (m,w,d) für Softwareentwicklung in C++ im Bereich Medizintechnik und Robotik
+- [ ] https://de.linkedin.com/jobs/view/solution-engineer-working-student-m-w-d-at-caya-4461165176 | Caya | Solution Engineer Working Student (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-operational-technology-cybersecurity-at-siemens-4461675270 | Siemens | Working Student (f/m/d) Operational Technology Cybersecurity
+- [ ] https://de.linkedin.com/jobs/view/praktikum-m-w-d-ai-content-creator-at-bela-living-gmbh-4460728641 | Bela Living GmbH | Praktikum (m/w/d) AI Content Creator
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-vertrieb-ai-at-ankercloud-4461153523 | Ankercloud | Werkstudent/in Vertrieb & AI
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-cfd-application-engineer-m-f-d-at-dive-cae-4461154553 | Dive CAE | Working Student – CFD Application Engineer (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-legal-tech-sales-at-becker-b%C3%BCttner-held-4461141757 | Becker Büttner Held | Werkstudent (m/w/d) Legal Tech Sales
+- [ ] https://de.linkedin.com/jobs/view/working-student-technical-writer-m-f-x-at-up42-4463340975 | UP42 | Working Student - Technical Writer (m/f/x)
+
 - [ ] https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c | Perplexity | Internship - Machine Learning Research Engineer
 
 - [ ] https://careers.hellofresh.com/global/en/job/8168385?gh_jid=8168385 | HelloFresh | International Category Manager - DAI (F/M/X)
