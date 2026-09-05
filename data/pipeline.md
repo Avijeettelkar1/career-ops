@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-ai-automation-m-w-d-at-eberlein-kunz-4461185300 | Eberlein Kunz | Werkstudent AI & Automation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-audit-center-of-competence-data-analytics-m-w-d-at-deloitte-4444246888 | Deloitte | Praktikant / Werkstudent Audit - Center of Competence Data Analytics (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/venture-development-intern-new-products-ai-x-greentech-m-f-d-at-reonic-4463361721 | Reonic | Venture Development Intern - New Products (AI x Greentech)(m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/operations-management-intern-%E2%80%93-germany-ai-x-greentech-m-f-d-at-reonic-4463367550 | Reonic | Operations Management Intern – Germany (AI x Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-consulting-ki-implementierung-m-w-d-at-lucid-labs-4461459428 | Lucid Labs | Werkstudent Consulting & KI-Implementierung (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/it-working-student-documentation-data-analytics-project-management-m-f-d-at-corning-incorporated-4461423012 | Corning Incorporated | IT Working Student (Documentation, Data Analytics & Project Management) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-interne-kommunikation-cloud-m-w-d-at-bwi-gmbh-4463380407 | BWI GmbH | Werkstudent Interne Kommunikation Cloud (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-freiberufler-it-projektmanagement-technische-assistenz-m-w-d-at-core-it-world-4461458764 | Core IT World | Werkstudent / Freiberufler IT-Projektmanagement & Technische Assistenz (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-venture-development-tech-w-m-d-at-enpal-4463623023 | Enpal | Working Student Venture Development Tech (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-content-and-data-management-all-genders-at-ctrl-qs-gmbh-4458063274 | ctrl QS GmbH | Working Student – Content and Data Management (all genders)
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-working-student-at-acemate-ai-4460726402 | acemate.ai | Software Engineer (Intern / Working Student)
 - [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-m-w-d-f%C3%BCr-softwareentwicklung-in-c%2B%2B-im-bereich-medizintechnik-und-robotik-at-fraunhofer-ipk-4462874177 | Fraunhofer IPK | Studentische Hilfskraft (m,w,d) für Softwareentwicklung in C++ im Bereich Medizintechnik und Robotik
 - [ ] https://de.linkedin.com/jobs/view/solution-engineer-working-student-m-w-d-at-caya-4461165176 | Caya | Solution Engineer Working Student (m/w/d)
