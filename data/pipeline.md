@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikum-werkstudent-data-ai-consulting-w-m-d-at-pwc-deutschland-4463857213 | PwC Deutschland | Praktikum / Werkstudent Data & AI Consulting (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-zur-ki-getriebenen-robotik-und-bildverarbeitung-at-fraunhofer-ipk-4465023662 | Fraunhofer IPK | Pflichtpraktikum zur KI-getriebenen Robotik und Bildverarbeitung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-erkl%C3%A4rbare-ki-at-fraunhofer-heinrich-hertz-institute-hhi-4454753410 | Fraunhofer Heinrich Hertz Institute HHI | Werkstudent*in Erklärbare KI
+- [ ] https://de.linkedin.com/jobs/view/praktikum-im-bereich-ki-f%C3%BCr-qualit%C3%A4tsmanagement-m-w-x-at-zeiss-group-4465031101 | ZEISS Group | Praktikum im Bereich KI für Qualitätsmanagement (m/w/x)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-ai-process-business-excellence-m-f-d-at-devproofs-4463865414 | DevProofs | Working Student – AI Process & Business Excellence (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ki-und-digitalisierung-im-qualit%C3%A4tsmanagement-m-w-d-at-bsh-home-appliances-group-4463871123 | BSH Home Appliances Group | Werkstudent/-in KI und Digitalisierung im Qualitätsmanagement (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/customer-success-internship-m-w-d-software-startup-jobbird-com-at-jobster-4463812253 | Jobster | Customer Success Internship (m/w/d) - Software Startup - Jobbird.com
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-interne-kommunikation-cloud-m-w-d-at-bwi-gmbh-4465032248 | BWI GmbH | Werkstudent Interne Kommunikation Cloud (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-im-vertrieb-govtech-startup-in-berlin-deutsch-ab-16%E2%82%AC-p-st-%2B-provision-at-eduneon-4464996378 | Eduneon | Werkstudent:in im Vertrieb - GovTech Startup in Berlin (Deutsch), ab 16€ p. St. + Provision
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-softwareentwicklung-vor-ort-berlin-at-gema-4462949043 | GEMA | Werkstudent (m/w/d) - Softwareentwicklung - Vor Ort | Berlin
 - [ ] https://de.linkedin.com/jobs/view/applied-ai-intern-at-almetra-4464327831 | Almetra | Applied AI Intern
 - [ ] https://de.linkedin.com/jobs/view/ai-go-live-intern-at-almetra-4464318899 | Almetra | AI Go-live intern
