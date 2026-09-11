@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4463477932 | Transdev GmbH | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-automatisierung-im-hr-people-culture-m-w-d-at-pharmahera-service-gmbh-4464860492 | PharmaHera Service GmbH | Werkstudent*in AI & Automatisierung im HR / People & Culture (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-nordic-languages-at-audible-4465822593 | Audible | Working Student — Knowledge Management & AI Content Operations (Nordic Languages)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-arabic-at-audible-4465841347 | Audible | Working Student — Knowledge Management & AI Content Operations (Arabic)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-digital-business-engineering-m-w-d-at-deloitte-4465679830 | Deloitte | Praktikant Digital Business Engineering (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-werkstudent-data-ai-consulting-w-m-d-at-pwc-deutschland-4463857213 | PwC Deutschland | Praktikum / Werkstudent Data & AI Consulting (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-zur-ki-getriebenen-robotik-und-bildverarbeitung-at-fraunhofer-ipk-4465023662 | Fraunhofer IPK | Pflichtpraktikum zur KI-getriebenen Robotik und Bildverarbeitung
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-erkl%C3%A4rbare-ki-at-fraunhofer-heinrich-hertz-institute-hhi-4454753410 | Fraunhofer Heinrich Hertz Institute HHI | Werkstudent*in Erklärbare KI
