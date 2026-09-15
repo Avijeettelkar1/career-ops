@@ -1,12 +1,15 @@
-# 🌅 Morning Berlin Tech Jobs - 9/11/2026
+# 🌅 Morning Berlin Tech Jobs - 9/15/2026
 
-Generated at: **1:06:58 PM**
-Found **5** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **1:58:14 PM**
+Found **8** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **Transdev GmbH** | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4463477932) |
-| **PharmaHera Service GmbH** | Werkstudent*in AI & Automatisierung im HR / People & Culture (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-ai-automatisierung-im-hr-people-culture-m-w-d-at-pharmahera-service-gmbh-4464860492) |
-| **Audible** | Working Student — Knowledge Management & AI Content Operations (Nordic Languages) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-nordic-languages-at-audible-4465822593) |
-| **Audible** | Working Student — Knowledge Management & AI Content Operations (Arabic) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-arabic-at-audible-4465841347) |
-| **Deloitte** | Praktikant Digital Business Engineering (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikant-digital-business-engineering-m-w-d-at-deloitte-4465679830) |
+| **Stella.Coach** | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure | [View Job](https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4465513764) |
+| **TENPAL** | Software Engineering Intern/ Working Student | [View Job](https://de.linkedin.com/jobs/view/software-engineering-intern-working-student-at-tenpal-4467063832) |
+| **Langdock** | Support Engineer Intern - m/f/d | [View Job](https://de.linkedin.com/jobs/view/support-engineer-intern-m-f-d-at-langdock-4467239210) |
+| **Almetra** | AI Onboarding Intern | [View Job](https://de.linkedin.com/jobs/view/ai-onboarding-intern-at-almetra-4464318900) |
+| **Langdock** | Support Engineer (Working Student) - m/f/d | [View Job](https://de.linkedin.com/jobs/view/support-engineer-working-student-m-f-d-at-langdock-4467235265) |
+| **Solaris SE** | Marketing Data Analytics Working Student | [View Job](https://de.linkedin.com/jobs/view/marketing-data-analytics-working-student-at-solaris-se-4465244920) |
+| **Deloitte** | Werkstudent Technology Strategy & Transformation - Agile Transformation (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-technology-strategy-transformation-agile-transformation-m-w-d-at-deloitte-4467741629) |
+| **GovIntelligence** | Government Data Associate (Working Student, m/w/d) | [View Job](https://de.linkedin.com/jobs/view/government-data-associate-working-student-m-w-d-at-govintelligence-4467732350) |

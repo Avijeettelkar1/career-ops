@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4465513764 | Stella.Coach | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure
+- [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-working-student-at-tenpal-4467063832 | TENPAL | Software Engineering Intern/ Working Student
+- [ ] https://de.linkedin.com/jobs/view/support-engineer-intern-m-f-d-at-langdock-4467239210 | Langdock | Support Engineer Intern - m/f/d
+- [ ] https://de.linkedin.com/jobs/view/ai-onboarding-intern-at-almetra-4464318900 | Almetra | AI Onboarding Intern
+- [ ] https://de.linkedin.com/jobs/view/support-engineer-working-student-m-f-d-at-langdock-4467235265 | Langdock | Support Engineer (Working Student) - m/f/d
+- [ ] https://de.linkedin.com/jobs/view/marketing-data-analytics-working-student-at-solaris-se-4465244920 | Solaris SE | Marketing Data Analytics Working Student
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technology-strategy-transformation-agile-transformation-m-w-d-at-deloitte-4467741629 | Deloitte | Werkstudent Technology Strategy & Transformation - Agile Transformation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/government-data-associate-working-student-m-w-d-at-govintelligence-4467732350 | GovIntelligence | Government Data Associate (Working Student, m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-k%C3%BCnstliche-intelligenz-ai-engineering-m-w-d-at-transdev-gmbh-4463477932 | Transdev GmbH | Werkstudent*in Künstliche Intelligenz/AI Engineering (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-automatisierung-im-hr-people-culture-m-w-d-at-pharmahera-service-gmbh-4464860492 | PharmaHera Service GmbH | Werkstudent*in AI & Automatisierung im HR / People & Culture (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-nordic-languages-at-audible-4465822593 | Audible | Working Student — Knowledge Management & AI Content Operations (Nordic Languages)
