@@ -2,6 +2,17 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/technical-product-research-intern-in-agentic-payments-stablecoins-web3-at-atrya-4466685197 | Atrya | Technical Product Research Intern in Agentic Payments / Stablecoins / Web3
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-platform-vor-ort-gema-digital-at-gema-4467548728 | GEMA | Werkstudent (m/w/d) - Data Platform - Vor Ort | GEMA Digital
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-backend-development-digitale-identit%C3%A4ten-m-w-d-at-bundesdruckerei-gruppe-4459813503 | Bundesdruckerei-Gruppe | Werkstudent Backend Development - digitale Identitäten (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-ai-operations-at-oviva-4468663003 | Oviva | Working Student – AI & Operations
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-digitalisierung-data-analytics-im-bereich-general-service-at-knorr-bremse-ag-4466670201 | Knorr-Bremse AG | Werkstudent (m/w/d) Digitalisierung & Data Analytics im Bereich General Service
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-data-intelligence-dashboarding-m-w-d-at-wematch-4462196791 | WeMatch. | Werkstudent Data Intelligence & Dashboarding (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-als-it-administrator-data-analyst-m-w-d-at-pflegia-4467839497 | Pflegia | Praktikum als IT-Administrator & Data Analyst (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/master-thesis-student-m-f-d-%E2%80%93-explainable-ai-for-fraud-detection-at-riverty-4469128267 | Riverty | Master Thesis Student (m/f/d) – Explainable AI for Fraud Detection
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%9Cpackaging-data-specifications%E2%80%9D-w-m-d-i-berlin-hybrid-at-packmatic-4466665024 | Packmatic | Working Student “Packaging Data & Specifications” (w/m/d) I Berlin (hybrid)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-marketing-data-m-w-d-at-pflegia-4467851193 | Pflegia | Praktikum Marketing & Data (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4465513764 | Stella.Coach | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-working-student-at-tenpal-4467063832 | TENPAL | Software Engineering Intern/ Working Student
 - [ ] https://de.linkedin.com/jobs/view/support-engineer-intern-m-f-d-at-langdock-4467239210 | Langdock | Support Engineer Intern - m/f/d
