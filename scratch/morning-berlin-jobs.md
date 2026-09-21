@@ -1,17 +1,13 @@
-# 🌅 Morning Berlin Tech Jobs - 9/18/2026
+# 🌅 Morning Berlin Tech Jobs - 9/21/2026
 
-Generated at: **1:15:36 PM**
-Found **10** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **3:27:58 PM**
+Found **6** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **Atrya** | Technical Product Research Intern in Agentic Payments / Stablecoins / Web3 | [View Job](https://de.linkedin.com/jobs/view/technical-product-research-intern-in-agentic-payments-stablecoins-web3-at-atrya-4466685197) |
-| **GEMA** | Werkstudent (m/w/d) - Data Platform - Vor Ort | GEMA Digital | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-platform-vor-ort-gema-digital-at-gema-4467548728) |
-| **Bundesdruckerei-Gruppe** | Werkstudent Backend Development - digitale Identitäten (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-backend-development-digitale-identit%C3%A4ten-m-w-d-at-bundesdruckerei-gruppe-4459813503) |
-| **Oviva** | Working Student – AI & Operations | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-ai-operations-at-oviva-4468663003) |
-| **Knorr-Bremse AG** | Werkstudent (m/w/d) Digitalisierung & Data Analytics im Bereich General Service | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-digitalisierung-data-analytics-im-bereich-general-service-at-knorr-bremse-ag-4466670201) |
-| **WeMatch.** | Werkstudent Data Intelligence & Dashboarding (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-data-intelligence-dashboarding-m-w-d-at-wematch-4462196791) |
-| **Pflegia** | Praktikum als IT-Administrator & Data Analyst (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-als-it-administrator-data-analyst-m-w-d-at-pflegia-4467839497) |
-| **Riverty** | Master Thesis Student (m/f/d) – Explainable AI for Fraud Detection | [View Job](https://de.linkedin.com/jobs/view/master-thesis-student-m-f-d-%E2%80%93-explainable-ai-for-fraud-detection-at-riverty-4469128267) |
-| **Packmatic** | Working Student “Packaging Data & Specifications” (w/m/d) I Berlin (hybrid) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%9Cpackaging-data-specifications%E2%80%9D-w-m-d-i-berlin-hybrid-at-packmatic-4466665024) |
-| **Pflegia** | Praktikum Marketing & Data (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-marketing-data-m-w-d-at-pflegia-4467851193) |
+| **Senacor Technologies** | Praktikantin im IT-Consulting/Software Development (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikantin-im-it-consulting-software-development-m-w-d-at-senacor-technologies-4454180573) |
+| **GRAEF** | Werkstudent Process Automation & AI (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-process-automation-ai-m-w-d-at-graef-4467621263) |
+| **1KOMMA5°** | Working Student Designer (Design System) – Heartbeat AI (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/working-student-designer-design-system-%E2%80%93-heartbeat-ai-m-f-d-at-1komma5%C2%B0-4467351798) |
+| **e-Company Consultants IT Beratung GmbH** | Pflichtpraktikant/in – Organisation & KI-gestützte Prozesse (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/pflichtpraktikant-in-%E2%80%93-organisation-ki-gest%C3%BCtzte-prozesse-m-w-d-at-e-company-consultants-it-beratung-gmbh-4469857850) |
+| **EY** | Werkstudent Tax Technology VAT (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-tax-technology-vat-w-m-d-at-ey-4320278990) |
+| **ABB** | Werkstudent (m/w/d) - Mechanical Engineering | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-mechanical-engineering-at-abb-4468758871) |

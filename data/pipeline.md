@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/praktikantin-im-it-consulting-software-development-m-w-d-at-senacor-technologies-4454180573 | Senacor Technologies | Praktikantin im IT-Consulting/Software Development (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-process-automation-ai-m-w-d-at-graef-4467621263 | GRAEF | Werkstudent Process Automation & AI (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-designer-design-system-%E2%80%93-heartbeat-ai-m-f-d-at-1komma5%C2%B0-4467351798 | 1KOMMA5° | Working Student Designer (Design System) – Heartbeat AI (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikant-in-%E2%80%93-organisation-ki-gest%C3%BCtzte-prozesse-m-w-d-at-e-company-consultants-it-beratung-gmbh-4469857850 | e-Company Consultants IT Beratung GmbH | Pflichtpraktikant/in – Organisation & KI-gestützte Prozesse (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-tax-technology-vat-w-m-d-at-ey-4320278990 | EY | Werkstudent Tax Technology VAT (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-mechanical-engineering-at-abb-4468758871 | ABB | Werkstudent (m/w/d) - Mechanical Engineering
+
 - [ ] https://de.linkedin.com/jobs/view/technical-product-research-intern-in-agentic-payments-stablecoins-web3-at-atrya-4466685197 | Atrya | Technical Product Research Intern in Agentic Payments / Stablecoins / Web3
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-platform-vor-ort-gema-digital-at-gema-4467548728 | GEMA | Werkstudent (m/w/d) - Data Platform - Vor Ort | GEMA Digital
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-backend-development-digitale-identit%C3%A4ten-m-w-d-at-bundesdruckerei-gruppe-4459813503 | Bundesdruckerei-Gruppe | Werkstudent Backend Development - digitale Identitäten (m/w/d)
