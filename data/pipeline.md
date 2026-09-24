@@ -2,6 +2,20 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/deutsche-bank-internship-f-m-x-in-technology-data-innovation-2027-berlin-at-deutsche-bank-4459560178 | Deutsche Bank | Deutsche Bank Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-in-der-testautomatisierung-r-d-software-at-siemens-4469480295 | Siemens | Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)
+- [ ] https://de.linkedin.com/jobs/view/growth-intern-automation-ai-w-m-d-at-arbeitnow-jobs-in-germany-uk-4469371817 | Arbeitnow - Jobs in Germany & UK | Growth Intern - Automation & AI (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/solutions-engineering-intern-emea-at-ninjaone-4469744114 | NinjaOne | Solutions Engineering Intern - EMEA
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-nordic-languages-at-audible-4471114937 | Audible | Working Student — Knowledge Management & AI Content Operations (Nordic Languages)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%94-knowledge-management-ai-content-operations-arabic-at-audible-4471113944 | Audible | Working Student — Knowledge Management & AI Content Operations (Arabic)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-content-creation-%E2%80%93-neues-produkt-at-check24-4452483170 | CHECK24 | Praktikum AI Content Creation – neues Produkt
+- [ ] https://de.linkedin.com/jobs/view/working-student-product-manager-mobile-apps-ai-m-f-d-at-minddoc-4471447022 | MindDoc | Working Student - Product Manager (Mobile apps/AI) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-als-social-media-manager-m-w-d-vertical-ai-startup-at-meisterpfad-4469323197 | MeisterPfad | Praktikum als Social Media Manager (m/w/d), Vertical AI Startup
+- [ ] https://de.linkedin.com/jobs/view/founders-associate-intern-w-m-d-in-climate-tech-starting-january-2027-at-varm-4471478899 | VARM | Founders Associate Intern (w/m/d) in Climate-Tech | Starting January 2027
+- [ ] https://de.linkedin.com/jobs/view/bachelorarbeit-masterarbeit-it-softwareentwicklung-at-zeb-consulting-4466401526 | zeb consulting | Bachelorarbeit / Masterarbeit IT Softwareentwicklung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technical-support-self-service-m-w-d-at-thermondo-4471407967 | thermondo | Werkstudent Technical Support & Self-Service (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technical-presales-all-genders-at-gk-software-4471479790 | GK Software | Werkstudent Technical Presales (all genders)
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-berlin-2027-at-snowflake-4470489302 | Snowflake | Software Engineer Intern - Berlin (2027)
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-automatisierung-und-ki-agenten-im-recruiting-m-w-d-%C2%B7-berlin-teils-remote-%C2%B7-4-bis-6-monate-at-immotalente-de-4468924243 | immotalente.de | Pflichtpraktikum Automatisierung und KI-Agenten im Recruiting (m/w/d) · Berlin, teils remote · 4 bis 6 Monate
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-praktikant-w-m-d-data-engineering-data-analytics-ki-at-capgemini-4470919340 | Capgemini | Werkstudent / Praktikant (w/m/d) Data Engineering, Data Analytics & KI
