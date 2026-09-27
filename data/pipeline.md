@@ -2,6 +2,9 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-m-w-d-vertical-ai-startup-at-meisterpfad-4470802284 | MeisterPfad | Product Engineering Intern (m/w/d), Vertical AI Startup
+- [ ] https://de.linkedin.com/jobs/view/gtm-founder-s-associate-intern-m-w-d-vertical-ai-startup-at-meisterpfad-4470582830 | MeisterPfad | GTM - Founder's Associate Intern (m/w/d), Vertical AI Startup
+
 - [ ] https://de.linkedin.com/jobs/view/deutsche-bank-internship-f-m-x-in-technology-data-innovation-2027-berlin-at-deutsche-bank-4459560178 | Deutsche Bank | Deutsche Bank Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-in-der-testautomatisierung-r-d-software-at-siemens-4469480295 | Siemens | Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)
 - [ ] https://de.linkedin.com/jobs/view/growth-intern-automation-ai-w-m-d-at-arbeitnow-jobs-in-germany-uk-4469371817 | Arbeitnow - Jobs in Germany & UK | Growth Intern - Automation & AI (w/m/d)
