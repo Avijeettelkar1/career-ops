@@ -2,6 +2,11 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/image-and-data-processing-libraries-intern-at-nvidia-4471985038 | NVIDIA | Image and Data Processing Libraries Intern
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-applied-ai-all-genders-at-boston-consulting-group-bcg-4462963726 | Boston Consulting Group (BCG) | Working Student – Applied AI (all genders)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-w-m-d-im-bereich-virtuelle-produktentstehung-mit-fokus-auf-ki-entwicklung-at-fraunhofer-ipk-4472159690 | Fraunhofer IPK | Studentische Hilfskraft (w,m,d) im bereich Virtuelle Produktentstehung mit Fokus auf KI-Entwicklung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-f%C3%BCr-die-fertigung-in-der-verbrennungstechnik-at-siemens-energy-4473759393 | Siemens Energy | Werkstudent (w/m/d) für die Fertigung in der Verbrennungstechnik
+
 - [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-m-w-d-vertical-ai-startup-at-meisterpfad-4470802284 | MeisterPfad | Product Engineering Intern (m/w/d), Vertical AI Startup
 - [ ] https://de.linkedin.com/jobs/view/gtm-founder-s-associate-intern-m-w-d-vertical-ai-startup-at-meisterpfad-4470582830 | MeisterPfad | GTM - Founder's Associate Intern (m/w/d), Vertical AI Startup
 
