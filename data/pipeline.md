@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-backend-development-digitale-identit%C3%A4ten-m-w-d-at-bundesdruckerei-gruppe-4473975642 | Bundesdruckerei-Gruppe | Werkstudent Backend Development - digitale Identitäten (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-digitalization-technology-at-telef%C3%B3nica-germany-4472558481 | Telefónica Germany | Werkstudent (m/w/d) Digitalization & Technology
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ai-automations-at-trustspace-4472942307 | TrustSpace | Werkstudent:in AI & Automations
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-technical-onboarding-f-m-d-b2b-saas-berlin-hybrid-at-packmatic-4472799506 | Packmatic | Working Student – Technical Onboarding (f/m/d) | B2B SaaS | Berlin (hybrid)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-digital-engineering-and-simulation-m-w-d-at-bsh-home-appliances-group-4472545271 | BSH Home Appliances Group | Werkstudent Digital Engineering and Simulation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/master-thesis-student-m-f-d-%E2%80%93-explainable-ai-for-fraud-detection-at-riverty-4474313869 | Riverty | Master Thesis Student (m/f/d) – Explainable AI for Fraud Detection
+- [ ] https://de.linkedin.com/jobs/view/praktikant-m-w-d-innovationsmanagement-fokus-ki-neue-technologien-at-signal-iduna-gruppe-4472611048 | SIGNAL IDUNA Gruppe | Praktikant (m/w/d) Innovationsmanagement (Fokus KI & neue Technologien)
+- [ ] https://de.linkedin.com/jobs/view/thesis-im-bereich-sap-data-analytics-consulting-all-genders-at-mhp-%E2%80%93-a-porsche-company-4440020807 | MHP – A Porsche Company | Thesis im Bereich SAP Data Analytics Consulting (all genders)
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-d-f-m-internal-ai-at-personio-4453460182 | Personio | Software Engineer (d/f/m) - Internal AI
+
 - [ ] https://de.linkedin.com/jobs/view/image-and-data-processing-libraries-intern-at-nvidia-4471985038 | NVIDIA | Image and Data Processing Libraries Intern
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-applied-ai-all-genders-at-boston-consulting-group-bcg-4462963726 | Boston Consulting Group (BCG) | Working Student – Applied AI (all genders)
 - [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-w-m-d-im-bereich-virtuelle-produktentstehung-mit-fokus-auf-ki-entwicklung-at-fraunhofer-ipk-4472159690 | Fraunhofer IPK | Studentische Hilfskraft (w,m,d) im bereich Virtuelle Produktentstehung mit Fokus auf KI-Entwicklung
