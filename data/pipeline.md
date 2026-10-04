@@ -2,6 +2,10 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/sales-business-development-intern-m-f-d-%E2%80%93-ai-saas-at-efigenix-gmbh-4473478481 | Efigenix GmbH | Sales & Business Development Intern (m/f/d) – AI & SaaS
+- [ ] https://de.linkedin.com/jobs/view/praktikum-m-w-d-ai-content-creator-at-bela-living-gmbh-4473435908 | Bela Living GmbH | Praktikum (m/w/d) AI Content Creator
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-vertrieb-ai-at-ankercloud-4473493048 | Ankercloud | Werkstudent/in Vertrieb & AI
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-2027-start-berlin-at-databricks-4473176361 | Databricks | Software Engineering Intern (2027 Start) - Berlin
 - [ ] https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4473437352 | Art & Science Node | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level
 - [ ] https://de.linkedin.com/jobs/view/business-intelligence-engineer-intern-germany-at-amazon-4474794699 | Amazon | Business Intelligence Engineer Intern Germany
