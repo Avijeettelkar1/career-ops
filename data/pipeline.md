@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/ai-engineering-intern-m-w-d-at-heuristiq-ai-studio-4474887799 | Heuristiq AI Studio | AI Engineering Intern (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-systemintegration-deployment-m-w-d-docker-linux-cloud-umgebungen-at-think3ddd-4474851790 | Think3DDD | Pflichtpraktikum Systemintegration & Deployment (m/w/d) - Docker, Linux & Cloud-Umgebungen
+- [ ] https://de.linkedin.com/jobs/view/working-student-software-data-engineering-e-health-x-d-w-m-at-doc-cirrus-4475218981 | Doc Cirrus | Working Student Software & Data Engineering E-Health (x/d/w/m)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-software-engineering-at-siemens-4475984229 | Siemens | Werkstudent (w/m/d) Software Engineering
+- [ ] https://de.linkedin.com/jobs/view/ai-growth-intern-m-w-d-at-heuristiq-ai-studio-4477157416 | Heuristiq AI Studio | AI Growth Intern (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-ai-automatisierung-at-cubos-4475220510 | CUBOS | Werkstudent AI-Automatisierung
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technical-presales-all-genders-at-gk-software-4477809239 | GK Software | Werkstudent Technical Presales (all genders)
+- [ ] https://de.linkedin.com/jobs/view/werde-teil-unserer-ai-reise%21-praktikum-in-vollzeit-marketing-branding-m-w-d-at-twigbit-technologies-gmbh-4475225979 | twigbit technologies GmbH | Werde Teil unserer AI-Reise! Praktikum in Vollzeit Marketing & Branding (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineering-intern-canggu-bali-4%E2%80%936-months-on-site-at-ex-epic-inc-4477102303 | EX Epic Inc. | Software Engineering Intern: Canggu, Bali (4–6 months, on-site)
 - [ ] https://de.linkedin.com/jobs/view/forward-deployed-engineer-ai-inference-intern-at-lyceum-4475781619 | Lyceum | Forward Deployed Engineer AI Inference (Intern)
 - [ ] https://de.linkedin.com/jobs/view/system-engineer-internship-2027-6-months-esc-managed-operations-at-amazon-web-services-aws-4476907041 | Amazon Web Services (AWS) | System Engineer internship 2027 (6 months), ESC Managed Operations
