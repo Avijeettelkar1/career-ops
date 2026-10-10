@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-textcortex-ai-4475603356 | TextCortex AI | Product Engineering Intern
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-technical-presales-all-genders-at-solquest-gmbh-4477818159 | SOLQUEST GmbH | Werkstudent Technical Presales (all genders)
+- [ ] https://de.linkedin.com/jobs/view/tax-finance-operations-interns-f-m-d-ai-tax-startup-at-taxforce-4475611834 | Taxforce | Tax & Finance Operations Interns (f/m/d) - AI Tax Startup
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-im-bereich-finance-data-gn-at-voiio-4475263741 | voiio | Pflichtpraktikum im Bereich Finance & Data (gn)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-innovation-ki-w-m-d-at-hisolutions-ag-4469174374 | HiSolutions AG | Werkstudent Innovation & KI (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-technologie-scouting-projektmanagement-at-builtech-group-4429878688 | Builtech Group | Werkstudent (m/w/d) Technologie Scouting & Projektmanagement
+
 - [ ] https://de.linkedin.com/jobs/view/ai-engineering-intern-m-w-d-at-heuristiq-ai-studio-4474887799 | Heuristiq AI Studio | AI Engineering Intern (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-systemintegration-deployment-m-w-d-docker-linux-cloud-umgebungen-at-think3ddd-4474851790 | Think3DDD | Pflichtpraktikum Systemintegration & Deployment (m/w/d) - Docker, Linux & Cloud-Umgebungen
 - [ ] https://de.linkedin.com/jobs/view/working-student-software-data-engineering-e-health-x-d-w-m-at-doc-cirrus-4475218981 | Doc Cirrus | Working Student Software & Data Engineering E-Health (x/d/w/m)
