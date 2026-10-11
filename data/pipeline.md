@@ -2,6 +2,10 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/internship-machine-learning-research-engineer-at-perplexity-4468008490 | Perplexity | Internship - Machine Learning Research Engineer
+- [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-internship-embedded-development-linux-at-amazon-web-services-aws-4469211575 | Amazon Web Services (AWS) | Software Dev Engineer Internship - Embedded Development (Linux)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-softwareentwicklung-at-siemens-4477217690 | Siemens | Werkstudent (w/m/d) Softwareentwicklung
+
 - [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-at-textcortex-ai-4475603356 | TextCortex AI | Product Engineering Intern
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-technical-presales-all-genders-at-solquest-gmbh-4477818159 | SOLQUEST GmbH | Werkstudent Technical Presales (all genders)
 - [ ] https://de.linkedin.com/jobs/view/tax-finance-operations-interns-f-m-d-ai-tax-startup-at-taxforce-4475611834 | Taxforce | Tax & Finance Operations Interns (f/m/d) - AI Tax Startup
