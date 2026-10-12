@@ -2,6 +2,14 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/ia-engineer-intern-x-f-m-berlin-at-doctolib-4478396660 | Doctolib | IA Engineer intern (x/f/m) - Berlin
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-at-doctolib-4478520039 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-devops-cloud-engineering-at-siemens-4477586875 | Siemens | Working Student (f/m/d) DevOps & Cloud Engineering
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-devops-cloud-engineering-at-siemens-4477583912 | Siemens | Werkstudent (w/m/d) DevOps & Cloud Engineering
+- [ ] https://de.linkedin.com/jobs/view/bachelor-s-master-s-thesis-applied-ai-machine-learning-ai-agents-m-w-d-at-idealo-internet-gmbh-4478549262 | idealo internet GmbH | Bachelor's / Master's Thesis - Applied AI: Machine Learning & AI Agents (m|w|d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-f%C3%BCr-digitale-transformation-und-ki-m-w-d-x-at-greenwind-4475692571 | greenwind | Werkstudent:in für digitale Transformation und KI (m/w/d/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-elektrotechnische-simulationen-at-siemens-4477584839 | Siemens | Werkstudent (w/m/d) elektrotechnische Simulationen
+
 - [ ] https://de.linkedin.com/jobs/view/internship-machine-learning-research-engineer-at-perplexity-4468008490 | Perplexity | Internship - Machine Learning Research Engineer
 - [ ] https://de.linkedin.com/jobs/view/software-dev-engineer-internship-embedded-development-linux-at-amazon-web-services-aws-4469211575 | Amazon Web Services (AWS) | Software Dev Engineer Internship - Embedded Development (Linux)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-softwareentwicklung-at-siemens-4477217690 | Siemens | Werkstudent (w/m/d) Softwareentwicklung
