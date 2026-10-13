@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/n8n/fea09cae-58f1-4f3e-b4a0-daba6e7e5002 | n8n | Internal AI Enablement Lead
+- [ ] https://jobs.ashbyhq.com/n8n/d16d63fa-2198-4bde-8b00-b8bf30f19644 | n8n | Internal Context Engineer
+
+- [ ] https://de.linkedin.com/jobs/view/backend-engineer-internship-6-months-at-qonto-4478789884 | Qonto | Backend Engineer - Internship (6 months)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-w-m-d-laborbetrieb-messsystemtechnik-softwareentwicklung-at-helmholtz-zentrum-berlin-4476056646 | Helmholtz-Zentrum Berlin | Studentische Hilfskraft (w/m/d) Laborbetrieb & Messsystemtechnik / Softwareentwicklung
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-legal-operations-ai-automation-at-lovehoney-group-4476453447 | Lovehoney Group | Working Student – Legal Operations & AI Automation
+- [ ] https://de.linkedin.com/jobs/view/praktikant-m-w-d-innovationsmanagement-fokus-ki-neue-technologien-at-signal-iduna-gruppe-4476042929 | SIGNAL IDUNA Gruppe | Praktikant (m/w/d) Innovationsmanagement (Fokus KI & neue Technologien)
+- [ ] https://de.linkedin.com/jobs/view/cad-engineering-intern-canggu-bali-4%E2%80%936-months-on-site-at-ex-epic-inc-4478760181 | EX Epic Inc. | CAD Engineering Intern: Canggu, Bali (4–6 months, on-site)
+- [ ] https://de.linkedin.com/jobs/view/werkstudenten-m-w-d-sales-engineering-at-esri-deutschland-4476065560 | Esri Deutschland | Werkstudenten (m/w/d) - Sales Engineering
+
 - [ ] https://de.linkedin.com/jobs/view/ia-engineer-intern-x-f-m-berlin-at-doctolib-4478396660 | Doctolib | IA Engineer intern (x/f/m) - Berlin
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-at-doctolib-4478520039 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin
 - [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-devops-cloud-engineering-at-siemens-4477586875 | Siemens | Working Student (f/m/d) DevOps & Cloud Engineering
