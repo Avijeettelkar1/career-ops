@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.lever.co/qonto/27b04742-b983-411c-9a39-186e0738a60c | Qonto | Backend Engineer - Internship (6 months)
+
 - [ ] https://jobs.ashbyhq.com/n8n/fea09cae-58f1-4f3e-b4a0-daba6e7e5002 | n8n | Internal AI Enablement Lead
 - [ ] https://jobs.ashbyhq.com/n8n/d16d63fa-2198-4bde-8b00-b8bf30f19644 | n8n | Internal Context Engineer
 
