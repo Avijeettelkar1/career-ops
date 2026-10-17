@@ -2,6 +2,12 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/intern-working-student-tech-f-d-m-at-sanity-group-4479659493 | Sanity Group | Intern / Working Student Tech (F/D/M)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-support-engineering-i-m-w-d-x-at-deutsche-telekom-iot-4480370370 | Deutsche Telekom IoT | Werkstudent*in Support Engineering I (m/w/d/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-support-engineering-i-m-w-d-x-at-deutsche-telekom-4480520202 | Deutsche Telekom | Werkstudent*in Support Engineering I (m/w/d/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-fullstack-developer-at-myautoabo-4477722546 | myAutoAbo | Werkstudent (m/w/d) | Fullstack Developer
+- [ ] https://de.linkedin.com/jobs/view/working-student-iot-connectivity-support-engineer-m-f-d-at-schindler-group-4477070999 | Schindler Group | Working Student IoT Connectivity Support Engineer (m/f/d)
+
 - [ ] https://jobs.lever.co/qonto/27b04742-b983-411c-9a39-186e0738a60c | Qonto | Backend Engineer - Internship (6 months)
 
 - [ ] https://jobs.ashbyhq.com/n8n/fea09cae-58f1-4f3e-b4a0-daba6e7e5002 | n8n | Internal AI Enablement Lead
