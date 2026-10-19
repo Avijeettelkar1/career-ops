@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-product-automation-at-sap-4478603191 | SAP | Working Student (f/m/d) - AI & Product Automation
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-it-audit-it-assurance-data-analytics-m-w-d-at-deloitte-4262628777 | Deloitte | Praktikant / Werkstudent IT Audit & IT Assurance - Data Analytics (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/post-sales-operations-intern-%E2%80%93-germany-ai-x-greentech-m-f-d-at-reonic-4480956352 | Reonic | Post-Sales Operations Intern – Germany (AI x Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/informatikpraktikum-e-commerce-im-verlag-front-backend-at-verlag-hom%C3%B6opathie-%2B-symbol-4478288565 | Verlag Homöopathie + Symbol | Informatikpraktikum E-Commerce im Verlag () (Front/Backend)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-founders-associate-projects-ai-m-d-w-at-lucid-labs-4478278368 | Lucid Labs | Werkstudent:in Founders Associate - Projects & AI (m/d/w)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-technology-strategy-transformation-agile-transformation-m-w-d-at-deloitte-4480944635 | Deloitte | Praktikant Technology Strategy & Transformation - Agile Transformation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-ki-business-development-all-genders-hybrid-berlin-at-dida-4478261756 | dida | Werkstudent*in KI Business Development (all genders) - Hybrid, Berlin
+- [ ] https://de.linkedin.com/jobs/view/working-student-engineering-m-f-d-at-deepspin-4478281903 | DeepSpin | Working Student- Engineering (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/sch%C3%BClerpraktikum-berlin-technisch-11-01-bis-22-01-2027-at-siemens-4481201781 | Siemens | Schülerpraktikum - Berlin - Technisch -11.01. bis 22.01.2027
+
 - [ ] https://de.linkedin.com/jobs/view/intern-working-student-tech-f-d-m-at-sanity-group-4479659493 | Sanity Group | Intern / Working Student Tech (F/D/M)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-support-engineering-i-m-w-d-x-at-deutsche-telekom-iot-4480370370 | Deutsche Telekom IoT | Werkstudent*in Support Engineering I (m/w/d/x)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-support-engineering-i-m-w-d-x-at-deutsche-telekom-4480520202 | Deutsche Telekom | Werkstudent*in Support Engineering I (m/w/d/x)
