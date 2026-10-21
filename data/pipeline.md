@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-technical-customer-success-ai-products-m-w-d-x-at-t-systems-international-4482079767 | T-Systems International | Werkstudent*in Technical Customer Success - AI Products (m/w/d/x)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-softwareentwicklung-f%C3%BCr-digitale-energie-und-automatisierungsl%C3%B6sungen-at-siemens-4481109217 | Siemens | Werkstudent (w/m/d) Softwareentwicklung für digitale Energie- und Automatisierungslösungen
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-audit-capture-ai-solutions-m-w-d-in-berlin-at-deloitte-4481775190 | Deloitte | Werkstudent Audit Capture & AI Solutions (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-softwareentwicklung-mit-schwerpunkt-datenbanken-m-w-d-at-e-on-grid-solutions-4479409416 | E.ON Grid Solutions | Werkstudent Softwareentwicklung mit Schwerpunkt Datenbanken (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/praktikum-it-technology-in-m-a-w-m-d-at-kpmg-deutschland-4480487795 | KPMG Deutschland | Praktikum IT & Technology in M&A (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/studentische-hilfskraft-m-w-d-im-bereich-systems-engineering-at-fraunhofer-ipk-4482078667 | Fraunhofer IPK | Studentische Hilfskraft (m,w,d) im Bereich Systems Engineering
+- [ ] https://de.linkedin.com/jobs/view/cad-engineering-intern-based-in-bali-indonesia-at-zero-x-4482042385 | ZERO-X | CAD Engineering Intern - based in Bali, Indonesia
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-%E2%80%93-digitale-medizintechnik-at-vivantes-%E2%80%93-netzwerk-f%C3%BCr-gesundheit-gmbh-4482046519 | Vivantes – Netzwerk für Gesundheit GmbH | Werkstudent*in – Digitale Medizintechnik
+
 - [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-product-automation-at-sap-4478603191 | SAP | Working Student (f/m/d) - AI & Product Automation
 - [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-it-audit-it-assurance-data-analytics-m-w-d-at-deloitte-4262628777 | Deloitte | Praktikant / Werkstudent IT Audit & IT Assurance - Data Analytics (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/post-sales-operations-intern-%E2%80%93-germany-ai-x-greentech-m-f-d-at-reonic-4480956352 | Reonic | Post-Sales Operations Intern – Germany (AI x Greentech) (m/f/d)
