@@ -1,15 +1,18 @@
-# 🌅 Morning Berlin Tech Jobs - 10/22/2026
+# 🌅 Morning Berlin Tech Jobs - 10/23/2026
 
-Generated at: **2:15:24 PM**
-Found **8** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **1:56:01 PM**
+Found **11** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **Plato** | Forward Deployed Engineer Intern | [View Job](https://de.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-plato-4479420523) |
-| **Siemens Energy** | Working Student (f/m/d) - AI agent development | [View Job](https://de.linkedin.com/jobs/view/working-student-f-m-d-ai-agent-development-at-siemens-energy-4481321448) |
-| **autarc (YC S24)** | Praktikum Software Vertrieb – Start Januar 2027 | [View Job](https://de.linkedin.com/jobs/view/praktikum-software-vertrieb-%E2%80%93-start-januar-2027-at-autarc-yc-s24-4481349976) |
-| **Siemens** | Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-ki-gest%C3%BCtzte-software-und-plattformentwicklung-at-siemens-4481143069) |
-| **1KOMMA5°** | Working Student Lab Engineer - Berlin (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/working-student-lab-engineer-berlin-m-f-d-at-1komma5%C2%B0-4480020874) |
-| 🚨 **Tesla (TARGET)** | Intralogistics Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg | [View Job](https://de.linkedin.com/jobs/view/intralogistics-engineering-internship-m-w-d-gigafactory-berlin-brandenburg-at-tesla-4482155691) |
-| **E.ON Grid Solutions** | Werkstudent iPEN Data Model (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-ipen-data-model-m-w-d-at-e-on-grid-solutions-4479440137) |
-| **Doctolib** | Workingstudent B2C SEO & AI Search (x/f/m) | [View Job](https://de.linkedin.com/jobs/view/workingstudent-b2c-seo-ai-search-x-f-m-at-doctolib-4482460054) |
+| **Amazon Web Services (AWS)** | Software Dev Engineer internship - Embedded Development | [View Job](https://de.linkedin.com/jobs/view/software-dev-engineer-internship-embedded-development-at-amazon-web-services-aws-4455937209) |
+| **Qonto** | Web Engineer Intern | [View Job](https://de.linkedin.com/jobs/view/web-engineer-intern-at-qonto-4482739609) |
+| **STARK** | Production Data Engineer - Intern (All Genders) | [View Job](https://de.linkedin.com/jobs/view/production-data-engineer-intern-all-genders-at-stark-4482485568) |
+| **Telefónica Germany** | Werkstudent (m/w/d) KI-Agenten & Multi-Agenten-Systeme im HR | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ki-agenten-multi-agenten-systeme-im-hr-at-telef%C3%B3nica-germany-4481692369) |
+| **MKS Inc.** | Working Student (m/f/d) Data Scientist and Programmer | [View Job](https://de.linkedin.com/jobs/view/working-student-m-f-d-data-scientist-and-programmer-at-mks-inc-4480661739) |
+| **Atotech an MKS Brand** | Working Student (m/f/d) Data Scientist and Programmer | [View Job](https://de.linkedin.com/jobs/view/working-student-m-f-d-data-scientist-and-programmer-at-atotech-an-mks-brand-4481679285) |
+| **Bundesdruckerei-Gruppe** | Werkstudent - Data Science | [View Job](https://de.linkedin.com/jobs/view/werkstudent-data-science-at-bundesdruckerei-gruppe-4482861629) |
+| **Doctolib** | Medical Data Intern (x/f/m) | [View Job](https://de.linkedin.com/jobs/view/medical-data-intern-x-f-m-at-doctolib-4482715174) |
+| **Deloitte** | Werkstudent Kommunikationsdesign, AI & Automation (m/w/d) in Berlin | [View Job](https://de.linkedin.com/jobs/view/werkstudent-kommunikationsdesign-ai-automation-m-w-d-in-berlin-at-deloitte-4482701373) |
+| **A. Menarini Research & Business Service** | Werkstudent Wirtschaftswissenschaften / BWL (m/w/d) - KI & Digitalisierung | [View Job](https://de.linkedin.com/jobs/view/werkstudent-wirtschaftswissenschaften-bwl-m-w-d-ki-digitalisierung-at-a-menarini-research-business-service-4470117940) |
+| 🚨 **Tesla (TARGET)** | Controls Design Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg | [View Job](https://de.linkedin.com/jobs/view/controls-design-engineering-internship-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4482820614) |
