@@ -2,6 +2,11 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-working-student-at-acemate-ai-4483426167 | acemate.ai | Software Engineer (Intern / Working Student)
+- [ ] https://de.linkedin.com/jobs/view/working-student-backend-development-product-creation-assignment-m-w-d-at-idealo-internet-gmbh-4484538036 | idealo internet GmbH | Working Student - Backend Development Product Creation & Assignment (m|w|d)
+- [ ] https://de.linkedin.com/jobs/view/working-student-intern-post-sales-operations-%E2%80%93-germany-ai-x-greentech-m-f-d-at-reonic-4485343160 | Reonic | Working Student/Intern Post-Sales Operations – Germany (AI x Greentech) (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/sales-praktikum-sdr-%E2%80%93-fintech-m-w-d-at-youlend-4485336941 | YouLend | Sales Praktikum (SDR) – FinTech (m/w/d)
+
 - [ ] https://de.linkedin.com/jobs/view/product-engineering-intern-vertical-ai-startup-at-meisterpfad-4481874686 | MeisterPfad | Product Engineering Intern, Vertical AI Startup
 - [ ] https://de.linkedin.com/jobs/view/ai-engineering-intern-canggu-bali-4%E2%80%936-months-on-site-at-zero-x-4483782919 | ZERO-X | AI Engineering Intern: Canggu, Bali (4–6 months, on-site)
 - [ ] https://de.linkedin.com/jobs/view/praktikum-werkstudent-data-ai-consulting-w-m-d-at-pwc-deutschland-4483630363 | PwC Deutschland | Praktikum / Werkstudent Data & AI Consulting (w/m/d)
