@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-march-2027-at-doctolib-4485609217 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027
+- [ ] https://de.linkedin.com/jobs/view/verg%C3%BCtetes-pflichtpraktikum-automatisierung-und-ki-agenten-im-recruiting-m-w-d-%C2%B7-berlin-hybrid-%C2%B7-4-bis-6-monate-at-immotalente-de-4483939032 | immotalente.de | Vergütetes Pflichtpraktikum Automatisierung und KI-Agenten im Recruiting (m/w/d) · Berlin, hybrid · 4 bis 6 Monate
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-operations-ai-automation-m-w-d-at-myne-4479090230 | MYNE | Werkstudent Operations & AI Automation (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-digitalisierung-data-ai-im-bereich-supply-chain-management-at-siemens-4484893048 | Siemens | Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-projektmanagement-innovationsf%C3%B6rderung-m-w-d-startup-eu-projekte-medtech-at-think3ddd-4483492649 | Think3DDD | Pflichtpraktikum Projektmanagement & Innovationsförderung (m/w/d) - Startup | EU-Projekte | MedTech
+- [ ] https://de.linkedin.com/jobs/view/workingstudent-b2c-seo-ai-search-x-f-m-at-doctolib-4485615091 | Doctolib | Workingstudent B2C SEO & AI Search (x/f/m)
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-working-student-at-acemate-ai-4483426167 | acemate.ai | Software Engineer (Intern / Working Student)
 - [ ] https://de.linkedin.com/jobs/view/working-student-backend-development-product-creation-assignment-m-w-d-at-idealo-internet-gmbh-4484538036 | idealo internet GmbH | Working Student - Backend Development Product Creation & Assignment (m|w|d)
 - [ ] https://de.linkedin.com/jobs/view/working-student-intern-post-sales-operations-%E2%80%93-germany-ai-x-greentech-m-f-d-at-reonic-4485343160 | Reonic | Working Student/Intern Post-Sales Operations – Germany (AI x Greentech) (m/f/d)
