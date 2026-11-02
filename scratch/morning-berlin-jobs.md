@@ -1,13 +1,16 @@
-# 🌅 Morning Berlin Tech Jobs - 10/31/2026
+# 🌅 Morning Berlin Tech Jobs - 11/2/2026
 
-Generated at: **2:54:26 PM**
-Found **6** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **6:58:16 PM**
+Found **9** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **Doctolib** | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | [View Job](https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-march-2027-at-doctolib-4485609217) |
-| **immotalente.de** | Vergütetes Pflichtpraktikum Automatisierung und KI-Agenten im Recruiting (m/w/d) · Berlin, hybrid · 4 bis 6 Monate | [View Job](https://de.linkedin.com/jobs/view/verg%C3%BCtetes-pflichtpraktikum-automatisierung-und-ki-agenten-im-recruiting-m-w-d-%C2%B7-berlin-hybrid-%C2%B7-4-bis-6-monate-at-immotalente-de-4483939032) |
-| **MYNE** | Werkstudent Operations & AI Automation (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-operations-ai-automation-m-w-d-at-myne-4479090230) |
-| **Siemens** | Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management | [View Job](https://de.linkedin.com/jobs/view/werkstudent-w-m-d-digitalisierung-data-ai-im-bereich-supply-chain-management-at-siemens-4484893048) |
-| **Think3DDD** | Pflichtpraktikum Projektmanagement & Innovationsförderung (m/w/d) - Startup | EU-Projekte | MedTech | [View Job](https://de.linkedin.com/jobs/view/pflichtpraktikum-projektmanagement-innovationsf%C3%B6rderung-m-w-d-startup-eu-projekte-medtech-at-think3ddd-4483492649) |
-| **Doctolib** | Workingstudent B2C SEO & AI Search (x/f/m) | [View Job](https://de.linkedin.com/jobs/view/workingstudent-b2c-seo-ai-search-x-f-m-at-doctolib-4485615091) |
+| **EX Epic Inc.** | AI Engineering Intern in Bali, Indonesia | [View Job](https://de.linkedin.com/jobs/view/ai-engineering-intern-in-bali-indonesia-at-ex-epic-inc-4485455619) |
+| **Art & Science Node** | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level | [View Job](https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4484342933) |
+| **Enpal** | Process Automation Engineer - Internship (f/m/d) | [View Job](https://de.linkedin.com/jobs/view/process-automation-engineer-internship-f-m-d-at-enpal-4486168263) |
+| **Bettermile** | Working Student AI Automation & Support (d/f/m) | [View Job](https://de.linkedin.com/jobs/view/working-student-ai-automation-support-d-f-m-at-bettermile-4486107220) |
+| **getmomo** | Praktikum Customer Success im Fintech mit Übernahmechance (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-customer-success-im-fintech-mit-%C3%BCbernahmechance-m-w-d-at-getmomo-4484363532) |
+| **Data Spree GmbH** | Werkstudent Sales Engineering/Account Management (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-sales-engineering-account-management-m-w-d-at-data-spree-gmbh-4484362030) |
+| **Packmatic** | Working Student – Technical Onboarding (f/m/d) | B2B SaaS | Berlin (hybrid) | [View Job](https://de.linkedin.com/jobs/view/working-student-%E2%80%93-technical-onboarding-f-m-d-b2b-saas-berlin-hybrid-at-packmatic-4485936399) |
+| **Sparkassen Rating und Risikosysteme** | Werkstudent (m/w/d) – Risikomanagement / Data Science | [View Job](https://de.linkedin.com/jobs/view/werkstudent-m-w-d-%E2%80%93-risikomanagement-data-science-at-sparkassen-rating-und-risikosysteme-4484329756) |
+| **Horváth** | Praktikum als Fellow Consultant (w/m/d) Digital Transformation & Information Technology | [View Job](https://de.linkedin.com/jobs/view/praktikum-als-fellow-consultant-w-m-d-digital-transformation-information-technology-at-horv%C3%A1th-4484335429) |
