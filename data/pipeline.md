@@ -2,6 +2,13 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-software-engineering-m-w-d-at-ge-vernova-4488036143 | GE Vernova | Werkstudent im Bereich Software-Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ki-automatisierung-1-at-telef%C3%B3nica-germany-4486930792 | Telefónica Germany | Werkstudent (m/w/d) KI-Automatisierung 1
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-sales-%E2%80%93-healthcare-software-at-samedi-gmbh-4488133414 | samedi GmbH | Werkstudent (m/w/d) Sales – Healthcare Software
+- [ ] https://de.linkedin.com/jobs/view/internship-studio-apelbaum-art-engineering-or-communication-berlin-at-analogdream-e-v-4485876904 | AnalogDream e.V. | Internship - Studio Apelbaum - Art, Engineering or Communication (Berlin)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-commercial-enablement-ai-automation-german-speaking-f-m-d-at-zenjob-4486213922 | Zenjob | Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-ai-adoption-w-m-d-at-capgemini-4488012699 | Capgemini | Werkstudent AI Adoption (w/m/d)
+
 - [ ] https://de.linkedin.com/jobs/view/ai-engineering-intern-in-bali-indonesia-at-ex-epic-inc-4485455619 | EX Epic Inc. | AI Engineering Intern in Bali, Indonesia
 - [ ] https://de.linkedin.com/jobs/view/only-for-erasmus-turing-internship-ai-it-graphic-designer-and-or-computer-science-technologies-on-ma-level-at-art-science-node-4484342933 | Art & Science Node | Only for Erasmus/Turing Internship: AI/IT, Graphic Designer and/or Computer Science&Technologies on MA-Level
 - [ ] https://de.linkedin.com/jobs/view/process-automation-engineer-internship-f-m-d-at-enpal-4486168263 | Enpal | Process Automation Engineer - Internship (f/m/d)
