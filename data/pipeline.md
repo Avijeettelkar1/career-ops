@@ -2,6 +2,8 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c | Perplexity | Internship - Machine Learning Research Engineer
+
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-software-engineering-m-w-d-at-ge-vernova-4488036143 | GE Vernova | Werkstudent im Bereich Software-Engineering (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ki-automatisierung-1-at-telef%C3%B3nica-germany-4486930792 | Telefónica Germany | Werkstudent (m/w/d) KI-Automatisierung 1
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-sales-%E2%80%93-healthcare-software-at-samedi-gmbh-4488133414 | samedi GmbH | Werkstudent (m/w/d) Sales – Healthcare Software
