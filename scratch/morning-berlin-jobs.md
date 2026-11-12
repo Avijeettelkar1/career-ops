@@ -1,12 +1,14 @@
-# 🌅 Morning Berlin Tech Jobs - 11/9/2026
+# 🌅 Morning Berlin Tech Jobs - 11/12/2026
 
-Generated at: **7:18:59 PM**
-Found **5** new Werkstudent positions in Berlin posted within the last 24h:
+Generated at: **5:13:20 PM**
+Found **7** new Werkstudent positions in Berlin posted within the last 24h:
 
 | Company | Role | Link |
 | :--- | :--- | :--- |
-| **PwC Deutschland** | Praktikant / Werkstudent Cloud Transformation (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4483849691) |
-| **PwC Deutschland** | Praktikum Forensic - Data Analytics (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-forensic-data-analytics-w-m-d-at-pwc-deutschland-4479349610) |
-| **DATAGROUP** | Werkstudent Künstliche Intelligenz (KI) für SAP Service Transition & Automation (all genders) | [View Job](https://de.linkedin.com/jobs/view/werkstudent-k%C3%BCnstliche-intelligenz-ki-f%C3%BCr-sap-service-transition-automation-all-genders-at-datagroup-4487102705) |
-| **Taxforce** | Tax & Finance Operations Interns (f/m/d) - AI Tax Startup | [View Job](https://de.linkedin.com/jobs/view/tax-finance-operations-interns-f-m-d-ai-tax-startup-at-taxforce-4487152851) |
-| **Lautsprecher Teufel** | Working Student Acoustics Engineering (m/f/d) | [View Job](https://de.linkedin.com/jobs/view/working-student-acoustics-engineering-m-f-d-at-lautsprecher-teufel-4487680869) |
+| **Marsh Agency** | Oliver Wyman - Data & Analytics Consulting - Intern (m/f/d) - Berlin | [View Job](https://de.linkedin.com/jobs/view/oliver-wyman-data-analytics-consulting-intern-m-f-d-berlin-at-marsh-agency-4490007275) |
+| **Enpal** | Praktikum AI & Automation – Virtual Power Plant (m/w/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-ai-automation-%E2%80%93-virtual-power-plant-m-w-d-at-enpal-4489991844) |
+| **Deutsche Bahn** | Werkstudent:in Softwareentwicklung & Bahnsystemarchitektur | [View Job](https://de.linkedin.com/jobs/view/werkstudent-in-softwareentwicklung-bahnsystemarchitektur-at-deutsche-bahn-4490087731) |
+| **Enpal** | Praktikum Tech Venture Development (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-tech-venture-development-w-m-d-at-enpal-4489987841) |
+| **Taxforce** | Investment Team Intern (m/w/d) - AI Roll-up | [View Job](https://de.linkedin.com/jobs/view/investment-team-intern-m-w-d-ai-roll-up-at-taxforce-4488262166) |
+| **GEMINO AI** | AI-Hybrid Filmmaking Intern — Bali, Indonesia | [View Job](https://de.linkedin.com/jobs/view/ai-hybrid-filmmaking-intern-%E2%80%94-bali-indonesia-at-gemino-ai-4490098540) |
+| **Uniper** | Praktikum 6 Monate - Grid Engineering in Renewables (w/m/d) | [View Job](https://de.linkedin.com/jobs/view/praktikum-6-monate-grid-engineering-in-renewables-w-m-d-at-uniper-4490317755) |

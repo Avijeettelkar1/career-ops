@@ -2,6 +2,14 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/oliver-wyman-data-analytics-consulting-intern-m-f-d-berlin-at-marsh-agency-4490007275 | Marsh Agency | Oliver Wyman - Data & Analytics Consulting - Intern (m/f/d) - Berlin
+- [ ] https://de.linkedin.com/jobs/view/praktikum-ai-automation-%E2%80%93-virtual-power-plant-m-w-d-at-enpal-4489991844 | Enpal | Praktikum AI & Automation – Virtual Power Plant (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-softwareentwicklung-bahnsystemarchitektur-at-deutsche-bahn-4490087731 | Deutsche Bahn | Werkstudent:in Softwareentwicklung & Bahnsystemarchitektur
+- [ ] https://de.linkedin.com/jobs/view/praktikum-tech-venture-development-w-m-d-at-enpal-4489987841 | Enpal | Praktikum Tech Venture Development (w/m/d)
+- [ ] https://de.linkedin.com/jobs/view/investment-team-intern-m-w-d-ai-roll-up-at-taxforce-4488262166 | Taxforce | Investment Team Intern (m/w/d) - AI Roll-up
+- [ ] https://de.linkedin.com/jobs/view/ai-hybrid-filmmaking-intern-%E2%80%94-bali-indonesia-at-gemino-ai-4490098540 | GEMINO AI | AI-Hybrid Filmmaking Intern — Bali, Indonesia
+- [ ] https://de.linkedin.com/jobs/view/praktikum-6-monate-grid-engineering-in-renewables-w-m-d-at-uniper-4490317755 | Uniper | Praktikum 6 Monate - Grid Engineering in Renewables (w/m/d)
+
 - [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-cloud-transformation-w-m-d-at-pwc-deutschland-4483849691 | PwC Deutschland | Praktikant / Werkstudent Cloud Transformation (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/praktikum-forensic-data-analytics-w-m-d-at-pwc-deutschland-4479349610 | PwC Deutschland | Praktikum Forensic - Data Analytics (w/m/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-k%C3%BCnstliche-intelligenz-ki-f%C3%BCr-sap-service-transition-automation-all-genders-at-datagroup-4487102705 | DATAGROUP | Werkstudent Künstliche Intelligenz (KI) für SAP Service Transition & Automation (all genders)
