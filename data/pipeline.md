@@ -2,6 +2,19 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-march-2027-at-doctolib-4490384824 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027
+- [ ] https://de.linkedin.com/jobs/view/intern-data-labeler-spanish-speaker-global-discovery-consumer-at-delivery-hero-4489548900 | Delivery Hero | Intern, Data Labeler (Spanish Speaker) - (Global Discovery, Consumer)
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-compliance-automation-ai-m-f-d-at-pliant-4490749088 | Pliant | Working Student – Compliance Automation & AI (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/intern-data-labeler-arabic-speaker-global-discovery-consumer-at-delivery-hero-4489568076 | Delivery Hero | Intern, Data Labeler (Arabic Speaker) - (Global Discovery, Consumer)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-data-science-m-w-d-at-bundesdruckerei-gruppe-4482861629 | Bundesdruckerei-Gruppe | Werkstudent - Data Science (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ai-automation-%E2%80%93-customer-experience-at-ifa-berlin-4489285173 | IFA Berlin | Werkstudent (m/w/d) AI & Automation – Customer Experience
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-ai-enablement-adoption-at-xcnt-4488923231 | XCNT | Werkstudent (m/w/d) - AI Enablement & Adoption
+- [ ] https://de.linkedin.com/jobs/view/social-media-manager-working-student-ai-music-video-platform-at-neural-frames-4490522606 | Neural Frames | Social Media Manager (Working Student) // AI Music Video Platform
+- [ ] https://de.linkedin.com/jobs/view/online-data-analyst-germany-studentjob-de-at-jobster-4489507459 | Jobster | Online Data Analyst - Germany - Studentjob.de
+- [ ] https://de.linkedin.com/jobs/view/working-student-electrical-engineering-all-genders-at-stark-4482496329 | STARK | Working Student - Electrical Engineering (All Genders)
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-sales-operations-cloud-at-ionos-4490742701 | IONOS | Working Student (f/m/d) Sales Operations Cloud
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-sales-operations-cloud-at-ionos-4488933758 | IONOS | Werkstudent (w/m/d) Sales Operations Cloud
+
 - [ ] https://de.linkedin.com/jobs/view/oliver-wyman-data-analytics-consulting-intern-m-f-d-berlin-at-marsh-agency-4490007275 | Marsh Agency | Oliver Wyman - Data & Analytics Consulting - Intern (m/f/d) - Berlin
 - [ ] https://de.linkedin.com/jobs/view/praktikum-ai-automation-%E2%80%93-virtual-power-plant-m-w-d-at-enpal-4489991844 | Enpal | Praktikum AI & Automation – Virtual Power Plant (m/w/d)
 - [ ] https://de.linkedin.com/jobs/view/werkstudent-in-softwareentwicklung-bahnsystemarchitektur-at-deutsche-bahn-4490087731 | Deutsche Bahn | Werkstudent:in Softwareentwicklung & Bahnsystemarchitektur
