@@ -2,6 +2,15 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5481096008 | Anthropic | Staff Software Engineer, Internal Products
+
+- [ ] https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4489324697 | Stella.Coach | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure
+- [ ] https://de.linkedin.com/jobs/view/internship-hr-tech-data-ai-enablement-at-on-4490771010 | On | Internship - HR Tech, Data & AI Enablement
+- [ ] https://de.linkedin.com/jobs/view/working-student-f-m-d-signavio-next-full-stack-development-engineering-automation-at-sap-4481901583 | SAP | Working Student (f/m/d) - Signavio Next Full-Stack Development & Engineering Automation
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-w-m-d-ki-automatisierung-im-factory-controlling-at-siemens-energy-4489594721 | Siemens Energy | Werkstudent (w/m/d) - KI & Automatisierung im Factory Controlling
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-im-bereich-software-engineering-m-w-d-at-ge-vernova-4489814068 | GE Vernova | Werkstudent im Bereich Software-Engineering (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-m-w-d-data-controlling-kpi-reporting-at-pflegia-4489586342 | Pflegia | Werkstudent (m/w/d) Data, Controlling & KPI-Reporting
+
 - [ ] https://de.linkedin.com/jobs/view/software-engineer-intern-fullstack-x-f-m-berlin-march-2027-at-doctolib-4490384824 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027
 - [ ] https://de.linkedin.com/jobs/view/intern-data-labeler-spanish-speaker-global-discovery-consumer-at-delivery-hero-4489548900 | Delivery Hero | Intern, Data Labeler (Spanish Speaker) - (Global Discovery, Consumer)
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-compliance-automation-ai-m-f-d-at-pliant-4490749088 | Pliant | Working Student – Compliance Automation & AI (m/f/d)
