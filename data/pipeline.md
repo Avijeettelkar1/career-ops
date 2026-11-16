@@ -2,6 +2,11 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/forward-deployed-engineer-%E2%80%93-ai-inference-intern-at-lyceum-4489789525 | Lyceum | Forward Deployed Engineer – AI Inference (Intern)
+- [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-w-m-d-audit-technology-digital-audit-innovation-at-kpmg-deutschland-4490913324 | KPMG Deutschland | Praktikant / Werkstudent (w/m/d) Audit Technology - Digital Audit Innovation
+- [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-compliance-automation-ai-m-f-d-at-pliant-4491512010 | Pliant | Working Student – Compliance Automation & AI (m/f/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-business-development-m-w-d-legal-tech-ki-at-goldentech-digital-ihre-digitalisierungsexperten-f%C3%BCr-kanzleien-4488538100 | goldentech digital - Ihre Digitalisierungsexperten für Kanzleien | Werkstudent Business Development (m/w/d) - Legal Tech & KI
+
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5481096008 | Anthropic | Staff Software Engineer, Internal Products
 
 - [ ] https://de.linkedin.com/jobs/view/praktikum-backend-developer-m-w-d-schwerpunkt-python-azure-at-stella-coach-4489324697 | Stella.Coach | Praktikum Backend Developer (m/w/d) - Schwerpunkt Python / Azure
