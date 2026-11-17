@@ -2,6 +2,16 @@
 |---|---|---|---|---|---|---|---|
 
 ## Pendientes
+- [ ] https://de.linkedin.com/jobs/view/ai-engineering-intern-canggu-bali-4%E2%80%936-months-on-site-at-ex-epic-inc-4491104064 | EX Epic Inc. | AI Engineering Intern: Canggu, Bali (4–6 months, on-site)
+- [ ] https://de.linkedin.com/jobs/view/working-student-w-m-d-sap-hana-cloud-infrastructure-at-sap-4490477314 | SAP | Working Student (w/m/d) - SAP HANA Cloud Infrastructure
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-software-development-communication-management-m-w-d-at-rohde-schwarz-4491402299 | Rohde & Schwarz | Werkstudent Software Development Communication Management (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-in-informatik-devops-at-toll-collect-gmbh-4490451679 | Toll Collect GmbH | Werkstudent*in Informatik (DevOps)
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-praktikant-im-bereich-governance-compliance-data-m-w-d-in-berlin-at-deloitte-4430973151 | Deloitte | Werkstudent / Praktikant im Bereich Governance, Compliance & Data (m/w/d) in Berlin
+- [ ] https://de.linkedin.com/jobs/view/praktikant-in-m-w-d-digital-technology-fokus-it-support-at-the-heineken-company-4482957222 | The HEINEKEN Company | Praktikant:in (m/w/d) Digital & Technology - Fokus IT-Support
+- [ ] https://de.linkedin.com/jobs/view/pflichtpraktikum-technical-sales-business-development-m-w-d-medizintechnik-3d-druck-at-think3ddd-4490166154 | Think3DDD | Pflichtpraktikum Technical Sales & Business Development (m/w/d) - Medizintechnik & 3D-Druck
+- [ ] https://de.linkedin.com/jobs/view/werkstudent-tech-transition-im-cyber-innovation-hub-der-bundeswehr-m-w-d-at-bwi-gmbh-4491594752 | BWI GmbH | Werkstudent Tech Transition im Cyber Innovation Hub der Bundeswehr (m/w/d)
+- [ ] https://de.linkedin.com/jobs/view/talent-pool-for-engineering-working-students-in-berlin-all-genders-at-reflex-aerospace-4491105979 | Reflex Aerospace | Talent Pool for Engineering Working Students in Berlin (all genders)
+
 - [ ] https://de.linkedin.com/jobs/view/forward-deployed-engineer-%E2%80%93-ai-inference-intern-at-lyceum-4489789525 | Lyceum | Forward Deployed Engineer – AI Inference (Intern)
 - [ ] https://de.linkedin.com/jobs/view/praktikant-werkstudent-w-m-d-audit-technology-digital-audit-innovation-at-kpmg-deutschland-4490913324 | KPMG Deutschland | Praktikant / Werkstudent (w/m/d) Audit Technology - Digital Audit Innovation
 - [ ] https://de.linkedin.com/jobs/view/working-student-%E2%80%93-compliance-automation-ai-m-f-d-at-pliant-4491512010 | Pliant | Working Student – Compliance Automation & AI (m/f/d)
